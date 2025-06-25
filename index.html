@@ -160,8 +160,25 @@
 
     startButton.addEventListener('click', () => {
         startButton.style.display = 'none';
-        speak('Начинаем тренировку, приготовься к первому подходу');
-        playBeeps(3, startCycle);
+
+        // Разогреваем speech synthesis
+        window.speechSynthesis.cancel();
+        const dummy = new SpeechSynthesisUtterance('');
+        window.speechSynthesis.speak(dummy);
+
+        // Разогреваем AudioContext
+        const context = new (window.AudioContext || window.webkitAudioContext)();
+        const dummyOsc = context.createOscillator();
+        dummyOsc.frequency.value = 1;
+        dummyOsc.connect(context.destination);
+        dummyOsc.start();
+        dummyOsc.stop(context.currentTime + 0.05);
+
+        // Стартуем через 200 мс
+        setTimeout(() => {
+            speak('Начинаем тренировку, приготовься к первому подходу');
+            playBeeps(3, startCycle);
+        }, 200);
     });
 
     restartButton.addEventListener('click', () => {
