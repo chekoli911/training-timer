@@ -88,6 +88,765 @@
     "rating": "4.0"
   },
   {
+    "id": 17,
+    "title": "Test Drive Unlimited Solar Crown PS5",
+    "platform": "PS5",
+    "price": 205,
+    "category": "racing",
+    "image": "https://static.tildacdn.com/stor3961-6138-4536-b465-633366303730/20663505.png",
+    "link": "http://arenapsgm.ru/gamescatalog/tproduct/774960088442-test-drive-unlimited-solar-crown-ps5",
+    "genre": "Все игры;Silent Hilll 2 рекомендации;Wukong рекомендации;Test Drive;Alane Wake 2 рекомендации;Новинки;Warhammer 40 рекомендации;COD 6 рекомендации;Assassin’s Creed Shadows рекомендации;Star wars рекомендации;Until Dawn remake рекомендации;Dead Rising рекомендации;FC 25 рекомендации;GOD2 рекомендации;Life is Strange: Double Exposure рекомендации;A Quiet Place рекомендации;Dragon Age: 2024 рекомендации;Lego Horizon Adventures PS5 Рекомендации;Spider man 2 рекомендации;Hogwarts Legacy Deluxe рекомендации;RAFT Рекомендации;Только PS5;Гонки",
+    "rating": "4.0"
+  },
+  {
+    "id": 19,
+    "title": "SILENT HILL 2 PS5",
+    "platform": "PS5",
+    "price": 350,
+    "category": "action",
+    "image": "https://static.tildacdn.com/stor6535-3735-4539-a437-666665623838/85394000.jpg",
+    "link": "http://arenapsgm.ru/gamescatalog/tproduct/106644149512-silent-hill-2-ps5",
+    "genre": "Все игры;Silent Hilll 2;Wukong рекомендации;Alane Wake 2 рекомендации;Новинки;Warhammer 40 рекомендации;COD 6 рекомендации;Assassin’s Creed Shadows рекомендации;Star wars рекомендации;Until Dawn remake рекомендации;Dead Rising рекомендации;Test Drive Рекомендации;FC 25 рекомендации;GOD2 рекомендации;Life is Strange: Double Exposure рекомендации;A Quiet Place рекомендации;Dragon Age: 2024 рекомендации;Lego Horizon Adventures PS5 Рекомендации;Spider man 2 рекомендации;Hogwarts Legacy Deluxe рекомендации;RAFT Рекомендации;Только PS5",
+    "rating": "4.0"
+  },
+  {
+    "id": 20,
+    "title": "Black Myth: Wukong PS5",
+    "platform": "PS5",
+    "price": 499,
+    "category": "action",
+    "image": "https://static.tildacdn.com/tild3035-3963-4132-b633-626635613161/IMG_8246.JPG",
+    "link": "http://arenapsgm.ru/wukong/tproduct/950543024072-black-myth-wukong-ps5",
+    "genre": "Вуконг;Alane Wake 2 рекомендации;Silent Hilll 2 рекомендации;Новинки;Warhammer 40 рекомендации;COD 6 рекомендации;Assassin’s Creed Shadows рекомендации;Star wars рекомендации;Until Dawn remake рекомендации;Dead Rising рекомендации;Test Drive Рекомендации;FC 25 рекомендации;Все игры;GOD2 рекомендации;Life is Strange: Double Exposure рекомендации;A Quiet Place рекомендации;Dragon Age: 2024 рекомендации;Lego Horizon Adventures PS5 Рекомендации;Spider man 2 рекомендации;Hogwarts Legacy Deluxe рекомендации;RAFT Рекомендации;Только PS5;Game Awards 2024",
+    "rating": "4.0"
+  },
+  {
+    "id": 21,
+    "title": "Call of Duty: Black Ops 6 PS4/PS5",
+    "platform": "PS4",
+    "price": 499,
+    "category": "action",
+    "image": "https://static.tildacdn.com/stor6565-6238-4935-a366-653739343863/34144736.png",
+    "link": "http://arenapsgm.ru/gamescatalog/tproduct/438064187402-call-of-duty-black-ops-6-ps4ps5",
+    "genre": "Все игры;Новинки;COD 6;Шутеры;Лента на главной;Боевики",
+    "rating": "4.0"
+  },
+  {
+    "id": 22,
+    "title": "Until Dawn remake PS5",
+    "platform": "PS5",
+    "price": 799,
+    "category": "action",
+    "image": "https://static.tildacdn.com/stor3065-3630-4331-b230-663339636562/71747286.jpg",
+    "link": "http://arenapsgm.ru/alanwake2deluxe/tproduct/851847968552-until-dawn-remake-ps5",
+    "genre": "Wukong рекомендации;Alane Wake 2 рекомендации;Новинки;Warhammer 40 рекомендации;COD 6 рекомендации;Assassin’s Creed Shadows рекомендации;Star wars рекомендации;Until Dawn remake PS5;Dead Rising рекомендации;Test Drive Рекомендации;FC 25 рекомендации;Все игры;GOD2 рекомендации;Life is Strange: Double Exposure рекомендации;A Quiet Place рекомендации;Dragon Age: 2024 рекомендации;Lego Horizon Adventures PS5 Рекомендации;Spider man 2 рекомендации;Hogwarts Legacy Deluxe рекомендации;RAFT Рекомендации;Только PS5;Игры на двоих;Интерактивное кино",
+    "rating": "4.0"
+  },
+  {
+    "id": 23,
+    "title": "Dead Rising Deluxe Remaster PS5",
+    "platform": "PS5",
+    "price": 299,
+    "category": "action",
+    "image": "https://static.tildacdn.com/stor3732-6132-4561-a562-343163386132/28968143.jpg",
+    "link": "http://arenapsgm.ru/deadrisingremasteredps5/tproduct/189394349752-dead-rising-deluxe-remaster-ps5",
+    "genre": "Dead Rising;Silent Hilll 2 рекомендации;Wukong рекомендации;Alane Wake 2 рекомендации;Новинки;Warhammer 40 рекомендации;COD 6 рекомендации;Assassin’s Creed Shadows рекомендации;Star wars рекомендации;Until Dawn remake рекомендации;Test Drive Рекомендации;FC 25 рекомендации;Все игры;GOD2 рекомендации;Life is Strange: Double Exposure рекомендации;A Quiet Place рекомендации;Dragon Age: 2024 рекомендации;Lego Horizon Adventures PS5 Рекомендации;Spider man 2 рекомендации;Hogwarts Legacy Deluxe рекомендации;RAFT Рекомендации;Только PS5;Приключения;Боевики;Хоррор",
+    "rating": "4.0"
+  },
+  {
+    "id": 24,
+    "title": "FC 25 PS4/PS5",
+    "platform": "PS4",
+    "price": 295,
+    "category": "sport",
+    "image": "https://static.tildacdn.com/stor6536-6631-4233-a639-616630336262/73112645.jpg",
+    "link": "http://arenapsgm.ru/fc25/tproduct/813340055242-fc-25-ps4ps5",
+    "genre": "FC 25;Silent Hilll 2 рекомендации;Wukong рекомендации;Alane Wake 2 рекомендации;Новинки;Warhammer 40 рекомендации;COD 6 рекомендации;Assassin’s Creed Shadows рекомендации;Star wars рекомендации;Until Dawn remake рекомендации;Dead Rising рекомендации;Все игры;GOD2 рекомендации;Life is Strange: Double Exposure рекомендации;A Quiet Place рекомендации;Dragon Age: 2024 рекомендации;Lego Horizon Adventures PS5 Рекомендации;Spider man 2 рекомендации;Hogwarts Legacy Deluxe рекомендации;Лента на главной;RAFT Рекомендации;Игры на двоих;Спорт;Game Awards 2024",
+    "rating": "4.0"
+  },
+  {
+    "id": 26,
+    "title": "Life is Strange: Double Exposure Ultimate Edition PS5",
+    "platform": "PS5",
+    "price": 359,
+    "category": "action",
+    "image": "https://static.tildacdn.com/stor6236-6262-4033-b666-393263646632/37556528.jpg",
+    "link": "http://arenapsgm.ru/newgame/tproduct/969306241922-life-is-strange-double-exposure-ultimate",
+    "genre": "Новинки;Wukong рекомендации;Test Drive Рекомендации;Silent Hilll 2 рекомендации;Warhammer 40 рекомендации;Assassin’s Creed Shadows рекомендации;Star wars рекомендации;Until Dawn remake рекомендации;Dead Rising рекомендации;FC 25 рекомендации;GOD2 рекомендации;Все игры;Life is Strange: Double Exposure PS5;A Quiet Place рекомендации;Dragon Age: 2024 рекомендации;Lego Horizon Adventures PS5 Рекомендации;Spider man 2 рекомендации;Hogwarts Legacy Deluxe рекомендации;RAFT Рекомендации;Только PS5;Интерактивное кино",
+    "rating": "4.0"
+  },
+  {
+    "id": 28,
+    "title": "Dragon Age: На страже Завесы PS5",
+    "platform": "PS5",
+    "price": 499,
+    "category": "action",
+    "image": "https://static.tildacdn.com/stor3139-6131-4037-a131-356536623131/67575235.jpg",
+    "link": "http://arenapsgm.ru/newgame/tproduct/407741917022-dragon-age-na-strazhe-zavesi-ps5",
+    "genre": "Новинки;Wukong рекомендации;Test Drive Рекомендации;Alane Wake 2 рекомендации;Silent Hilll 2 рекомендации;Warhammer 40 рекомендации;COD 6 рекомендации;Assassin’s Creed Shadows рекомендации;Star wars рекомендации;Until Dawn remake рекомендации;Dead Rising рекомендации;FC 25 рекомендации;Все игры;GOD2 рекомендации;Life is Strange: Double Exposure рекомендации;A Quiet Place рекомендации;Dragon Age: 2024;Lego Horizon Adventures PS5 Рекомендации;Spider man 2 рекомендации;Hogwarts Legacy Deluxe рекомендации;RAFT Рекомендации;Только PS5",
+    "rating": "4.0"
+  },
+  {
+    "id": 31,
+    "title": "Lego Horizon Adventures PS5",
+    "platform": "PS5",
+    "price": 499,
+    "category": "action",
+    "image": "https://static.tildacdn.com/stor3165-3330-4638-a135-303966366639/18642710.jpg",
+    "link": "http://arenapsgm.ru/newgame/tproduct/736250975482-lego-horizon-adventures-ps5",
+    "genre": "Новинки;Wukong рекомендации;Test Drive Рекомендации;Silent Hilll 2 рекомендации;Alane Wake 2 рекомендации;Warhammer 40 рекомендации;COD 6 рекомендации;Assassin’s Creed Shadows рекомендации;Star wars рекомендации;Until Dawn remake рекомендации;Dead Rising рекомендации;FC 25 рекомендации;Все игры;GOD2 рекомендации;Life is Strange: Double Exposure рекомендации;A Quiet Place рекомендации;Dragon Age: 2024 рекомендации;Lego Horizon Adventures PS5;Spider man 2 рекомендации;Hogwarts Legacy Deluxe рекомендации;RAFT Рекомендации;Только PS5;Игры на двоих",
+    "rating": "4.0"
+  },
+  {
+    "id": 38,
+    "title": "Raft PS5",
+    "platform": "PS5",
+    "price": 280,
+    "category": "action",
+    "image": "https://static.tildacdn.com/stor3263-6461-4531-b137-363964633730/87548449.png",
+    "link": "http://arenapsgm.ru/newgame/tproduct/634814860882-raft-ps5",
+    "genre": "Новинки;Лента на главной;Test Drive Рекомендации;Alane Wake 2 рекомендации;Silent Hilll 2 рекомендации;Warhammer 40 рекомендации;Assassin’s Creed Shadows рекомендации;COD 6 рекомендации;Star wars рекомендации;Until Dawn remake рекомендации;FC 25 рекомендации;Dead Rising рекомендации;GOD2 рекомендации;Все игры;A Quiet Place рекомендации;Dragon Age: 2024 рекомендации;Lego Horizon Adventures PS5 Рекомендации;Spider man 2 рекомендации;Hogwarts Legacy Deluxe рекомендации;Dying light 2 Stay Human рекомендации;RAFT;Только PS5",
+    "rating": "4.0"
+  },
+  {
+    "id": 41,
+    "title": "GTA 6",
+    "platform": "PS5",
+    "price": 0,
+    "category": "action",
+    "image": "https://static.tildacdn.com/stor6334-3366-4633-a364-613836323538/81527947.png",
+    "link": "http://arenapsgm.ru/newgame/tproduct/688605190782-gta-6",
+    "genre": "GTA 6;Новинки;Все игры;Только PS5;Game Awards 2024",
+    "rating": "4.0"
+  },
+  {
+    "id": 46,
+    "title": "Empire Of The Ants PS5",
+    "platform": "PS5",
+    "price": 280,
+    "category": "action",
+    "image": "https://static.tildacdn.com/stor3138-6636-4539-b137-663237356430/29724351.png",
+    "link": "http://arenapsgm.ru/tproduct/436287275002-empire-of-the-ants-ps5",
+    "genre": "Лента на главной;Все игры;Только PS5;Приключения;Стратегии и симуляторы;Новинки;RAFT Рекомендации",
+    "rating": "4.0"
+  },
+  {
+    "id": 66,
+    "title": "Alone in the Dark PS5",
+    "platform": "PS5",
+    "price": 359,
+    "category": "action",
+    "image": "https://static.tildacdn.com/stor3335-6537-4964-b337-383161333630/92664336.jpg",
+    "link": "http://arenapsgm.ru/tproduct/801217888642-alone-in-the-dark-ps5",
+    "genre": "Лента на главной;Все игры;Только PS5;Хоррор;Новинки",
+    "rating": "4.0"
+  },
+  {
+    "id": 76,
+    "title": "Path of Exile 2 PS5",
+    "platform": "PS5",
+    "price": 359,
+    "category": "rpg",
+    "image": "https://static.tildacdn.com/stor6163-3234-4564-a565-363966323864/97093336.jpg",
+    "link": "http://arenapsgm.ru/newgame/tproduct/196159191462-path-of-exile-2-ps5",
+    "genre": "Новинки;Лента на главной;Все игры;Только PS5;Игры на двоих;Приключения;РПГ;Платформеры;RAFT Рекомендации;Life is Strange: Double Exposure рекомендации;Alane Wake 2 рекомендации;Dragon Age: 2024 рекомендации",
+    "rating": "4.0"
+  },
+  {
+    "id": 79,
+    "title": "Legacy of Kain Soul Reaver 1 и 2 Remastered PS4/PS5",
+    "platform": "PS4",
+    "price": 359,
+    "category": "action",
+    "image": "https://static.tildacdn.com/stor6634-3063-4166-a665-613734653435/48429657.jpg",
+    "link": "http://arenapsgm.ru/tproduct/530440672632-legacy-of-kain-soul-reaver-1-i-2-remaste",
+    "genre": "Лента на главной;Все игры;Приключения;Стратегии и симуляторы;Новинки",
+    "rating": "4.0"
+  },
+  {
+    "id": 145,
+    "title": "Arma Reforger PS5",
+    "platform": "PS5",
+    "price": 539,
+    "category": "action",
+    "image": "https://static.tildacdn.com/stor6161-6463-4561-a336-633964326239/77193656.jpg",
+    "link": "http://arenapsgm.ru/tproduct/420130776482-arma-reforger-ps5",
+    "genre": "Лента на главной;Все игры;Только PS5;Шутеры;Боевики;Новинки",
+    "rating": "4.0"
+  },
+  {
+    "id": 150,
+    "title": "Phasmophobia PS5",
+    "platform": "PS5",
+    "price": 280,
+    "category": "action",
+    "image": "https://static.tildacdn.com/stor3565-3961-4730-b534-393338343038/95744622.jpg",
+    "link": "http://arenapsgm.ru/gamescatalog/tproduct/433078899482-phasmophobia-ps5",
+    "genre": "Все игры;Боевики;Лента на главной;Хоррор;Новинки;Приключения;Только PS5;VR",
+    "rating": "4.0"
+  },
+  {
+    "id": 236,
+    "title": "Atomic Heart: «Чары морских глубин» PS4/PS5",
+    "platform": "PS4",
+    "price": 539,
+    "category": "action",
+    "image": "https://static.tildacdn.com/stor3939-3037-4737-b466-663562373130/83180985.jpg",
+    "link": "http://arenapsgm.ru/gamescatalog/tproduct/775960266132-atomic-heart-chari-morskih-glubin-ps4ps5",
+    "genre": "Все игры;Лента на главной;Приключения;Шутеры;Боевики;Новинки",
+    "rating": "4.0"
+  },
+  {
+    "id": 376,
+    "title": "NBA25 PS4/PS5",
+    "platform": "PS4",
+    "price": 490,
+    "category": "sport",
+    "image": "https://static.tildacdn.com/stor3034-3363-4134-b661-316236353836/60503214.png",
+    "link": "http://arenapsgm.ru/tproduct/920685327832-nba25-ps4ps5",
+    "genre": "Лента на главной;Все игры;Игры на двоих;Спорт;Новинки",
+    "rating": "4.0"
+  },
+  {
+    "id": 397,
+    "title": "Monster Hunter Wilds PS5",
+    "platform": "PS5",
+    "price": 350,
+    "category": "rpg",
+    "image": "https://static.tildacdn.com/stor6164-3637-4266-b538-393065316163/68243453.png",
+    "link": "http://arenapsgm.ru/tproduct/790073278762-monster-hunter-wilds-ps5",
+    "genre": "Лента на главной;Все игры;Только PS5;Приключения;РПГ;Wukong рекомендации;Новинки",
+    "rating": "4.0"
+  },
+  {
+    "id": 446,
+    "title": "Forza Horizon 5 PS5",
+    "platform": "PS5",
+    "price": 690,
+    "category": "racing",
+    "image": "https://static.tildacdn.com/stor3963-6233-4236-b061-383236393862/90974005.jpg",
+    "link": "http://arenapsgm.ru/tproduct/268834177852-forza-horizon-5-ps5",
+    "genre": "Лента на главной;Все игры;Только PS5;Гонки;Приключения;Новинки;Test Drive Рекомендации",
+    "rating": "4.0"
+  },
+  {
+    "id": 449,
+    "title": "Split Fiction PS5",
+    "platform": "PS5",
+    "price": 939,
+    "category": "action",
+    "image": "https://static.tildacdn.com/stor3034-3936-4264-a631-663039653334/19149462.jpg",
+    "link": "http://arenapsgm.ru/tproduct/447398070622-split-fiction-ps5",
+    "genre": "Лента на главной;Все игры;Только PS5;Игры на двоих;Приключения;Платформеры;Новинки",
+    "rating": "4.0"
+  },
+  {
+    "id": 451,
+    "title": "DEATH STRANDING 2: ON THE BEACH",
+    "platform": "PS5",
+    "price": 899,
+    "category": "rpg",
+    "image": "https://static.tildacdn.com/stor3661-3736-4231-b736-623137366165/65223383.png",
+    "link": "http://arenapsgm.ru/tproduct/175800524712-death-stranding-2-on-the-beach",
+    "genre": "Лента на главной;Все игры;Только PS5;Приключения;РПГ;Хоррор;Новинки;Новинка главная шапка",
+    "rating": "4.0"
+  },
+  {
+    "id": 455,
+    "title": "Sniper Elite: Resistance PS4/PS5",
+    "platform": "PS4",
+    "price": 439,
+    "category": "action",
+    "image": "https://static.tildacdn.com/stor6663-6536-4433-b531-336233363737/16186605.jpg",
+    "link": "http://arenapsgm.ru/tproduct/776073561712-sniper-elite-resistance-ps4ps5",
+    "genre": "Лента на главной;Все игры;Шутеры;Боевики;Новинки",
+    "rating": "4.0"
+  },
+  {
+    "id": 461,
+    "title": "The First Berserker: Khazan PS5",
+    "platform": "PS5",
+    "price": 350,
+    "category": "rpg",
+    "image": "https://static.tildacdn.com/stor6334-3938-4330-b635-323732633132/26864190.jpg",
+    "link": "http://arenapsgm.ru/tproduct/984028779152-the-first-berserker-khazan-ps5",
+    "genre": "Лента на главной;Все игры;Только PS5;Боевики;Приключения;Новинки;РПГ",
+    "rating": "4.0"
+  },
+  {
+    "id": 503,
+    "title": "Indiana Jones and the Great Circle PS5",
+    "platform": "PS5",
+    "price": 899,
+    "category": "rpg",
+    "image": "https://static.tildacdn.com/stor6132-3632-4632-a361-613166326266/24072359.jpg",
+    "link": "http://arenapsgm.ru/gamescatalog/tproduct/980652415812-indiana-jones-and-the-great-circle-ps5",
+    "genre": "Все игры;Приключения;РПГ;Боевики;Лента на главной;Новинки;статья под индиана джонс",
+    "rating": "4.0"
+  },
+  {
+    "id": 523,
+    "title": "Days Gone Remastered PS5",
+    "platform": "PS5",
+    "price": 490,
+    "category": "action",
+    "image": "https://static.tildacdn.com/stor6530-3034-4731-b730-326235666636/64800502.png",
+    "link": "http://arenapsgm.ru/gamescatalog/tproduct/325170798982-days-gone-remastered-ps5",
+    "genre": "Все игры;Хоррор;Боевики;Лента на главной;Новинки",
+    "rating": "4.0"
+  },
+  {
+    "id": 524,
+    "title": "Clair Obscur: Expedition 33 PS5",
+    "platform": "PS5",
+    "price": 639,
+    "category": "rpg",
+    "image": "https://static.tildacdn.com/stor3666-3461-4962-b465-303130656631/67009477.jpg",
+    "link": "http://arenapsgm.ru/gamescatalog/tproduct/984975691462-clair-obscur-expedition-33-ps5",
+    "genre": "Все игры;Шутеры;Боевики;Только PS5;Лента на главной;Новинки;РПГ;Приключения;Стратегии и симуляторы",
+    "rating": "4.0"
+  },
+  {
+    "id": 528,
+    "title": "Assassin’s Creed Shadows PS5 + Split Fiction PS5",
+    "platform": "PS5",
+    "price": 1514,
+    "category": "action",
+    "image": "https://static.tildacdn.com/stor6463-6366-4266-b532-663062326630/10023487.jpg",
+    "link": "http://arenapsgm.ru/gamescatalog/tproduct/710433206142-assassins-creed-shadows-ps5-split-fictio",
+    "genre": "Все игры;Только PS5;Лента на главной;Новинки;Приключения;Игры на двоих;Платформеры",
+    "rating": "4.0"
+  },
+  {
+    "id": 537,
+    "title": "DOOM: The Dark Ages PS5",
+    "platform": "PS5",
+    "price": 349,
+    "category": "action",
+    "image": "https://static.tildacdn.com/stor3930-6136-4332-a561-386134663835/90254436.jpg",
+    "link": "http://arenapsgm.ru/gamescatalog/tproduct/215589533562-doom-the-dark-ages-ps5",
+    "genre": "Все игры;Wukong рекомендации;Alane Wake 2 рекомендации;Новинки;Warhammer 40 рекомендации;COD 6 рекомендации;Assassin’s Creed Shadows;Star wars рекомендации;Until Dawn remake рекомендации;Dead Rising рекомендации;Test Drive Рекомендации;FC 25 рекомендации;GOD2 рекомендации;Life is Strange: Double Exposure рекомендации;A Quiet Place рекомендации;Dragon Age: 2024 рекомендации;Lego Horizon Adventures PS5 Рекомендации;Spider man 2 рекомендации;Hogwarts Legacy Deluxe рекомендации;RAFT Рекомендации;Только PS5;Шутеры;Лента на главной;Боевики;Хоррор;Doom для статьи",
+    "rating": "4.0"
+  },
+  {
+    "id": 542,
+    "title": "Mutant Ninja Turtles: Mutants Unleashed PS4/PS5",
+    "platform": "PS4",
+    "price": 359,
+    "category": "action",
+    "image": "https://static.tildacdn.com/stor3264-3330-4662-a366-626139316437/78884147.jpg",
+    "link": "http://arenapsgm.ru/gamescatalog/tproduct/464403189862-mutant-ninja-turtles-mutants-unleashed-p",
+    "genre": "Все игры;Silent Hilll 2 рекомендации;Wukong рекомендации;Alane Wake 2 рекомендации;Новинки;Warhammer 40 рекомендации;COD 6 рекомендации;Assassin’s Creed Shadows рекомендации;Star wars рекомендации;Until Dawn remake рекомендации;Dead Rising рекомендации;Test Drive Рекомендации;FC 25 рекомендации;GOD2 рекомендации;Life is Strange: Double Exposure рекомендации;A Quiet Place рекомендации;Dragon Age: 2024 рекомендации;Lego Horizon Adventures PS5 Рекомендации;Spider man 2 рекомендации;Hogwarts Legacy Deluxe рекомендации;RAFT Рекомендации;Игры на двоих",
+    "rating": "4.0"
+  },
+  {
+    "id": 543,
+    "title": "The Precinct PS5",
+    "platform": "PS5",
+    "price": 449,
+    "category": "action",
+    "image": "https://static.tildacdn.com/stor3337-6665-4861-b936-386233386434/10127497.jpg",
+    "link": "http://arenapsgm.ru/gamescatalog/tproduct/933357485712-the-precinct-ps5",
+    "genre": "Все игры;Dragon Age: 2024 рекомендации;Until Dawn remake рекомендации;Assassin’s Creed Shadows рекомендации;Life is Strange: Double Exposure рекомендации;Test Drive Рекомендации;Silent Hilll 2 рекомендации;COD 6 рекомендации;Dead Rising рекомендации;Wukong рекомендации;GOD2 рекомендации;A Quiet Place рекомендации;Lego Horizon Adventures PS5 Рекомендации;Alane Wake 2 рекомендации;Star wars рекомендации;FC 25 рекомендации;Warhammer 40 рекомендации;Spider man 2;Лента на главной;Hogwarts Legacy Deluxe рекомендации;RAFT Рекомендации;Только PS5;Новинки",
+    "rating": "4.0"
+  },
+  {
+    "id": 546,
+    "title": "RoadCraft PS5",
+    "platform": "PS5",
+    "price": 790,
+    "category": "action",
+    "image": "https://static.tildacdn.com/stor3662-3163-4864-b638-653861626366/19415901.png",
+    "link": "http://arenapsgm.ru/gamescatalog/tproduct/516430430962-roadcraft-ps5",
+    "genre": "Все игры;Новинки;Wukong рекомендации;Alane Wake 2 рекомендации;Warhammer 40 рекомендации;COD 6 рекомендации;Assassin’s Creed Shadows;Star wars рекомендации;Until Dawn remake рекомендации;Dead Rising рекомендации;Test Drive Рекомендации;FC 25 рекомендации;GOD2 рекомендации;Life is Strange: Double Exposure рекомендации;A Quiet Place рекомендации;Dragon Age: 2024 рекомендации;Lego Horizon Adventures PS5 Рекомендации;Spider man 2 рекомендации;Hogwarts Legacy Deluxe рекомендации;RAFT Рекомендации;Только PS5;Шутеры;Хоррор;Боевики;Лента на главной",
+    "rating": "4.0"
+  },
+  {
+    "id": 548,
+    "title": "Assassin’s Creed Shadows PS5",
+    "platform": "PS5",
+    "price": 350,
+    "category": "action",
+    "image": "https://static.tildacdn.com/stor3033-3037-4632-a538-313239366233/63762289.jpg",
+    "link": "http://arenapsgm.ru/newgame/tproduct/957239091172-assassins-creed-shadows-ps5",
+    "genre": "Новинки;Все игры;Wukong рекомендации;Alane Wake 2 рекомендации;Warhammer 40 рекомендации;COD 6 рекомендации;Assassin’s Creed Shadows;Star wars рекомендации;Until Dawn remake рекомендации;Dead Rising рекомендации;Test Drive Рекомендации;FC 25 рекомендации;GOD2 рекомендации;Life is Strange: Double Exposure рекомендации;A Quiet Place рекомендации;Dragon Age: 2024 рекомендации;Lego Horizon Adventures PS5 Рекомендации;Spider man 2 рекомендации;Hogwarts Legacy Deluxe рекомендации;RAFT Рекомендации;Только PS5",
+    "rating": "4.0"
+  },
+  {
+    "id": 549,
+    "title": "Kingdom Come: Deliverance II PS5",
+    "platform": "PS5",
+    "price": 350,
+    "category": "rpg",
+    "image": "https://static.tildacdn.com/stor3230-6133-4234-b661-363535333935/62074213.jpg",
+    "link": "http://arenapsgm.ru/gamescatalog/tproduct/774155027312-kingdom-come-deliverance-ii-ps5",
+    "genre": "Все игры;Приключения;РПГ;Боевики;Лента на главной;Новинки",
+    "rating": "4.0"
+  },
+  {
+    "id": 550,
+    "title": "Elden Ring Nightreign PS4/PS5",
+    "platform": "PS4",
+    "price": 450,
+    "category": "action",
+    "image": "https://static.tildacdn.com/stor6261-6563-4631-a132-363738323038/27041793.jpg",
+    "link": "http://arenapsgm.ru/newgame/tproduct/966741697442-elden-ring-nightreign-ps4ps5",
+    "genre": "Новинки;Wukong рекомендации;Alane Wake 2 рекомендации;Warhammer 40 рекомендации;COD 6 рекомендации;Assassin’s Creed Shadows;Star wars рекомендации;Until Dawn remake рекомендации;Dead Rising рекомендации;Test Drive Рекомендации;FC 25 рекомендации;Все игры;GOD2 рекомендации;Life is Strange: Double Exposure рекомендации;A Quiet Place рекомендации;Dragon Age: 2024 рекомендации;Lego Horizon Adventures PS5 Рекомендации;Spider man 2 рекомендации;Hogwarts Legacy Deluxe рекомендации;RAFT Рекомендации;Только PS5;Хоррор;Лента на главной;Doom для статьи",
+    "rating": "4.0"
+  },
+  {
+    "id": 552,
+    "title": "Lies of P: Overture Bundle PS4/PS5",
+    "platform": "PS4",
+    "price": 899,
+    "category": "action",
+    "image": "https://static.tildacdn.com/stor3933-6263-4761-a265-643861396336/80890106.jpg",
+    "link": "http://arenapsgm.ru/gamescatalog/tproduct/685467940702-lies-of-p-overture-bundle-ps4ps5",
+    "genre": "Все игры;Новинки;Silent Hilll 2 рекомендации;Wukong рекомендации;Alane Wake 2 рекомендации;Warhammer 40 рекомендации;COD 6 рекомендации;Assassin’s Creed Shadows рекомендации;Star wars;Until Dawn remake рекомендации;Dead Rising рекомендации;Test Drive Рекомендации;FC 25 рекомендации;GOD2 рекомендации;Life is Strange: Double Exposure рекомендации;A Quiet Place рекомендации;Dragon Age: 2024 рекомендации;Lego Horizon Adventures PS5 Рекомендации;Spider man 2 рекомендации;Hogwarts Legacy Deluxe рекомендации;RAFT Рекомендации;Только PS5",
+    "rating": "4.0"
+  },
+  {
+    "id": 554,
+    "title": "The Alters PS5",
+    "platform": "PS5",
+    "price": 499,
+    "category": "rpg",
+    "image": "https://static.tildacdn.com/stor3962-3937-4930-b866-663331653266/71346097.png",
+    "link": "http://arenapsgm.ru/gamescatalog/tproduct/796478122682-the-alters-ps5",
+    "genre": "Все игры;Боевики;Только PS5;Лента на главной;Новинки;Приключения;РПГ;Стратегии и симуляторы;Новинка главная шапка",
+    "rating": "4.0"
+  },
+  {
+    "id": 568,
+    "title": "RoboCop: Rogue City - Unfinished Business PS5",
+    "platform": "PS5",
+    "price": 499,
+    "category": "action",
+    "image": "https://static.tildacdn.com/stor3665-3566-4066-b261-663034353836/36430003.jpg",
+    "link": "http://arenapsgm.ru/tproduct/980498123222-robocop-rogue-city-unfinished-business-p",
+    "genre": "Лента на главной;Все игры;Шутеры;Боевики;Приключения;Новинки",
+    "rating": "4.0"
+  },
+  {
+    "id": 573,
+    "title": "WUCHANG: Fallen Feathers PS5",
+    "platform": "PS5",
+    "price": 499,
+    "category": "rpg",
+    "image": "https://static.tildacdn.com/stor3166-3166-4362-b134-333161336163/66388837.jpg",
+    "link": "http://arenapsgm.ru/gamescatalog/tproduct/640351547912-wuchang-fallen-feathers-ps5",
+    "genre": "Все игры;Приключения;РПГ;Только PS5;Лента на главной;Новинки",
+    "rating": "4.0"
+  },
+  {
+    "id": 575,
+    "title": "Ready or Not PS5",
+    "platform": "PS5",
+    "price": 369,
+    "category": "action",
+    "image": "https://static.tildacdn.com/stor3234-3764-4665-b936-303332346430/45442572.jpg",
+    "link": "http://arenapsgm.ru/gamescatalog/tproduct/698230808442-ready-or-not-ps5",
+    "genre": "Все игры;Приключения;Только PS5;Лента на главной;Новинки;Шутеры",
+    "rating": "4.0"
+  },
+  {
+    "id": 580,
+    "title": "Cities VR PS5",
+    "platform": "PS5",
+    "price": 499,
+    "category": "rpg",
+    "image": "https://static.tildacdn.com/stor3330-3363-4562-a664-663665623666/30752263.jpg",
+    "link": "http://arenapsgm.ru/horror/tproduct/701307187392-cities-vr-ps5",
+    "genre": "Хоррор;Все игры;Приключения;РПГ;Только PS5;Лента на главной;Новинки",
+    "rating": "4.0"
+  },
+  {
+    "id": 581,
+    "title": "Mafia: The Old Country PS5 New Price",
+    "platform": "PS5",
+    "price": 369,
+    "category": "rpg",
+    "image": "https://static.tildacdn.com/stor6633-3237-4162-b730-313461396235/57085481.jpg",
+    "link": "http://arenapsgm.ru/tproduct/156584378822-mafia-the-old-country-ps5-new-price",
+    "genre": "Лента на главной;Хоррор;Все игры;Приключения;РПГ;Только PS5;Новинки",
+    "rating": "4.0"
+  },
+  {
+    "id": 584,
+    "title": "Senua's Saga: Hellblade II PS5",
+    "platform": "PS5",
+    "price": 639,
+    "category": "rpg",
+    "image": "https://static.tildacdn.com/stor3830-3536-4533-b333-396430333462/38602212.jpg",
+    "link": "http://arenapsgm.ru/tproduct/814156434772-senuas-saga-hellblade-ii-ps5",
+    "genre": "Шутеры;Все игры;Боевики;Только PS5;Лента на главной;Новинки;Приключения;РПГ;Стратегии и симуляторы;Хоррор;Новинка главная шапка",
+    "rating": "4.0"
+  },
+  {
+    "id": 591,
+    "title": "Gears of War: Reloaded PS5",
+    "platform": "PS5",
+    "price": 639,
+    "category": "action",
+    "image": "https://static.tildacdn.com/stor3364-6537-4564-a666-306238646537/29828091.jpg",
+    "link": "http://arenapsgm.ru/newgame/tproduct/176503129882-gears-of-war-reloaded-ps5",
+    "genre": "Новинки;Лента на главной;Все игры;Только PS5;Приключения;Шутеры;Новинка главная шапка;Игры на двоих",
+    "rating": "4.0"
+  },
+  {
+    "id": 592,
+    "title": "METAL GEAR SOLID: SNAKE EATER PS5",
+    "platform": "PS5",
+    "price": 939,
+    "category": "action",
+    "image": "https://static.tildacdn.com/stor6435-3865-4361-b864-356532623037/17578508.jpg",
+    "link": "http://arenapsgm.ru/newgame/tproduct/787949425092-metal-gear-solid-snake-eater-ps5",
+    "genre": "Новинки;Лента на главной;Все игры;Новинка главная шапка;Только PS5;Шутеры;Приключения;Боевики",
+    "rating": "4.0"
+  },
+  {
+    "id": 594,
+    "title": "Cronos: The New Dawn Deluxe Edition PS5",
+    "platform": "PS5",
+    "price": 499,
+    "category": "action",
+    "image": "https://static.tildacdn.com/stor3539-6331-4462-b563-343431616339/92686812.jpg",
+    "link": "http://arenapsgm.ru/newgame/tproduct/414358136302-cronos-the-new-dawn-deluxe-edition-ps5",
+    "genre": "Новинки;Лента на главной;Все игры;Только PS5;Боевики;Хоррор;Новинка главная шапка",
+    "rating": "4.0"
+  },
+  {
+    "id": 596,
+    "title": "Hell is Us PS5",
+    "platform": "PS5",
+    "price": 639,
+    "category": "action",
+    "image": "https://static.tildacdn.com/stor3062-6636-4339-a662-666164306638/25499088.jpg",
+    "link": "http://arenapsgm.ru/tproduct/590037855892-hell-is-us-ps5",
+    "genre": "Шутеры;Все игры;Приключения;Только PS5;Лента на главной;Новинки;Новинка главная шапка",
+    "rating": "4.0"
+  },
+  {
+    "id": 599,
+    "title": "Hollow Knight: Silksong PS4/PS5",
+    "platform": "PS4",
+    "price": 599,
+    "category": "rpg",
+    "image": "https://static.tildacdn.com/stor3165-3334-4264-a332-656361343265/79567131.jpg",
+    "link": "http://arenapsgm.ru/tproduct/284499310972-hollow-knight-silksong-ps4ps5",
+    "genre": "Лента на главной;Приключения;РПГ;Платформеры;Новинки;Новинка главная шапка;Все игры",
+    "rating": "4.0"
+  },
+  {
+    "id": 600,
+    "title": "NBA 2K26 PS5",
+    "platform": "PS5",
+    "price": 899,
+    "category": "sport",
+    "image": "https://static.tildacdn.com/stor3664-6564-4834-a433-336232386338/14868049.jpg",
+    "link": "http://arenapsgm.ru/tproduct/229170210962-nba-2k26-ps5",
+    "genre": "Новинка главная шапка;Все игры;Только PS5;Лента на главной;Новинки;Игры на двоих;Спорт",
+    "rating": "4.0"
+  },
+  {
+    "id": 601,
+    "title": "SILENT HILL f PS5",
+    "platform": "PS5",
+    "price": 939,
+    "category": "action",
+    "image": "https://static.tildacdn.com/stor3864-6132-4563-b335-303139323935/77759889.jpg",
+    "link": "http://arenapsgm.ru/tproduct/432846042272-silent-hill-f-ps5",
+    "genre": "Новинка главная шапка;Все игры;Приключения;Боевики;Только PS5;Лента на главной;Новинки;Хоррор",
+    "rating": "4.0"
+  },
+  {
+    "id": 603,
+    "title": "Ghost of Yotei PS5",
+    "platform": "PS5",
+    "price": 939,
+    "category": "action",
+    "image": "https://static.tildacdn.com/stor3166-6166-4138-b933-323933306636/53273140.jpg",
+    "link": "http://arenapsgm.ru/tproduct/782106986302-ghost-of-yotei-ps5",
+    "genre": "Новинка главная шапка;Все игры;Приключения;Боевики;Только PS5;Лента на главной;Новинки",
+    "rating": "4.0"
+  },
+  {
+    "id": 605,
+    "title": "Borderlands 4 PS5",
+    "platform": "PS5",
+    "price": 939,
+    "category": "action",
+    "image": "https://static.tildacdn.com/stor6230-3332-4337-b030-306662343437/42969879.jpg",
+    "link": "http://arenapsgm.ru/tproduct/829212593202-borderlands-4-ps5",
+    "genre": "Новинка главная шапка;Все игры;Приключения;Боевики;Только PS5;Лента на главной;Новинки",
+    "rating": "4.0"
+  },
+  {
+    "id": 616,
+    "title": "Dying Light: The Beast PS5",
+    "platform": "PS5",
+    "price": 899,
+    "category": "action",
+    "image": "https://static.tildacdn.com/stor3564-3837-4130-b031-666437373535/97273517.jpg",
+    "link": "http://arenapsgm.ru/tproduct/555739873852-dying-light-the-beast-ps5",
+    "genre": "Новинка главная шапка;Лента на главной;Все игры;Только PS5;Игры на двоих;Приключения;Хоррор;Новинки",
+    "rating": "4.0"
+  },
+  {
+    "id": 617,
+    "title": "Claws of Awaji – Assassin's Creed Shadows PS5",
+    "platform": "PS5",
+    "price": 350,
+    "category": "rpg",
+    "image": "https://static.tildacdn.com/stor6338-6433-4431-b663-303266633666/79261065.jpg",
+    "link": "http://arenapsgm.ru/tproduct/524735406642-claws-of-awaji-assassins-creed-shadows-p",
+    "genre": "Новинка главная шапка;Лента на главной;Все игры;Только PS5;Приключения;РПГ;Новинки;Assassin’s Creed Shadows",
+    "rating": "4.0"
+  },
+  {
+    "id": 620,
+    "title": "Ultimate EA SPORTS FC 26 для PS4/PS5",
+    "platform": "PS4",
+    "price": 899,
+    "category": "sport",
+    "image": "https://static.tildacdn.com/stor6437-3438-4764-b961-643338386165/79854004.jpg",
+    "link": "http://arenapsgm.ru/tproduct/931488400772-ultimate-ea-sports-fc-26-dlya-ps4ps5",
+    "genre": "Новинка главная шапка;Новинки;Все игры;Игры на двоих;Спорт",
+    "rating": "4.0"
+  },
+  {
+    "id": 625,
+    "title": "Frostpunk 2 PS5",
+    "platform": "PS5",
+    "price": 499,
+    "category": "rpg",
+    "image": "https://static.tildacdn.com/stor3336-6261-4133-b230-346566333664/98055694.jpg",
+    "link": "http://arenapsgm.ru/tproduct/914794153172-frostpunk-2-ps5",
+    "genre": "Лента на главной;Все игры;Боевики;Только PS5;Новинки;Приключения;РПГ;Стратегии и симуляторы;Новинка главная шапка",
+    "rating": "4.0"
+  },
+  {
+    "id": 633,
+    "title": "Little Nightmares III PS4/PS5",
+    "platform": "PS4",
+    "price": 599,
+    "category": "rpg",
+    "image": "https://static.tildacdn.com/stor6632-3365-4733-b063-643630363161/45609612.jpg",
+    "link": "http://arenapsgm.ru/tproduct/331866790052-little-nightmares-iii-ps4ps5",
+    "genre": "Новинка главная шапка;Приключения;РПГ;Лента на главной;Новинки;Платформеры;Все игры",
+    "rating": "4.0"
+  },
+  {
+    "id": 635,
+    "title": "Vampire: The Masquerade - Bloodlines 2 PS5",
+    "platform": "PS5",
+    "price": 639,
+    "category": "action",
+    "image": "https://static.tildacdn.com/stor6364-3335-4165-a339-636663313031/95830105.jpg",
+    "link": "http://arenapsgm.ru/gamescatalog/tproduct/662498520822-vampire-the-masquerade-bloodlines-2-ps5",
+    "genre": "Все игры;Приключения;Только PS5;Лента на главной;Новинки;Новинка главная шапка;Игры на двоих",
+    "rating": "4.0"
+  },
+  {
+    "id": 639,
+    "title": "The Outer Worlds 2 PS5",
+    "platform": "PS5",
+    "price": 899,
+    "category": "rpg",
+    "image": "https://static.tildacdn.com/stor3637-6335-4534-a237-376439313835/37164181.jpg",
+    "link": "http://arenapsgm.ru/horror/tproduct/645651957212-the-outer-worlds-2-ps5",
+    "genre": "Хоррор;Все игры;Приключения;РПГ;Только PS5;Лента на главной;Новинки;Новинка главная шапка",
+    "rating": "4.0"
+  },
+  {
+    "id": 640,
+    "title": "ARC Raiders PS5",
+    "platform": "PS5",
+    "price": 450,
+    "category": "rpg",
+    "image": "https://static.tildacdn.com/stor6237-6537-4636-a363-643531626130/47435668.jpg",
+    "link": "http://arenapsgm.ru/gamescatalog/tproduct/825521295232-arc-raiders-ps5",
+    "genre": "Все игры;Приключения;РПГ;Только PS5;Лента на главной;Новинки;Новинка главная шапка;Шутеры",
+    "rating": "4.0"
+  },
+  {
+    "id": 642,
+    "title": "Dispatch PS5",
+    "platform": "PS5",
+    "price": 499,
+    "category": "rpg",
+    "image": "https://static.tildacdn.com/stor6339-3661-4335-b030-373632303533/23124482.jpg",
+    "link": "http://arenapsgm.ru/gamescatalog/tproduct/662591843032-dispatch-ps5",
+    "genre": "Все игры;Боевики;Только PS5;Лента на главной;Новинки;Приключения;РПГ;Стратегии и симуляторы;Новинка главная шапка;Игры на двоих;Интерактивное кино",
+    "rating": "4.0"
+  },
+  {
+    "id": 27,
+    "title": "PS Plus Essential",
+    "platform": "PS5",
+    "price": 1325,
+    "category": "action",
+    "image": "https://static.tildacdn.com/stor6165-6262-4538-a264-626362623034/90898039.png",
+    "link": "http://arenapsgm.ru/playstationplus/tproduct/265723870132-ps-plus-essential",
+    "genre": "Подписка Plus;Lego Horizon Adventures PS5 Рекомендации;Spider man 2 рекомендации;Hogwarts Legacy Deluxe рекомендации;RAFT Рекомендации",
+    "rating": "4.0"
+  },
+  {
+    "id": 29,
+    "title": "PS Plus Extra",
+    "platform": "PS5",
+    "price": 1985,
+    "category": "action",
+    "image": "https://static.tildacdn.com/stor3563-3963-4234-a539-626366356163/45694411.png",
+    "link": "http://arenapsgm.ru/playstationplus/tproduct/120026529562-ps-plus-extra",
+    "genre": "Подписка Plus;Lego Horizon Adventures PS5 Рекомендации;Spider man 2 рекомендации;Hogwarts Legacy Deluxe рекомендации;RAFT Рекомендации",
+    "rating": "4.0"
+  },
+  {
+    "id": 30,
+    "title": "PS Plus Deluxe",
+    "platform": "PS5",
+    "price": 2325,
+    "category": "action",
+    "image": "https://static.tildacdn.com/stor6131-6537-4366-b637-363262353236/81647396.png",
+    "link": "http://arenapsgm.ru/playstationplus/tproduct/184221731042-ps-plus-deluxe",
+    "genre": "Подписка Plus;Lego Horizon Adventures PS5 Рекомендации;Spider man 2 рекомендации;Hogwarts Legacy Deluxe рекомендации;RAFT Рекомендации",
+    "rating": "4.0"
+  },
+  {
+    "id": 496,
+    "title": "Аренда PS Plus PS4/PS5",
+    "platform": "PS4",
+    "price": 490,
+    "category": "sport",
+    "image": "https://static.tildacdn.com/stor3662-6639-4733-b130-386162623738/80643264.jpg",
+    "link": "http://arenapsgm.ru/novinkikatalogadecpsplus/tproduct/199915107972-arenda-ps-plus-ps4ps5",
+    "genre": "Подписка Plus;Лента на главной;Все игры;Интерактивное кино;Только PS5;Игры на двоих;Спорт;Шутеры;Гонки;Приключения;РПГ;Платформеры;Боевики;VR;Стратегии и симуляторы;Хоррор",
+    "rating": "4.0"
+  },
+  {
+    "id": 505,
+    "title": "EA Play 12 месяцев Турция",
+    "platform": "PS5",
+    "price": 6749,
+    "category": "action",
+    "image": "https://static.tildacdn.com/stor3661-6663-4435-b331-633761323731/77529515.jpg",
+    "link": "http://arenapsgm.ru/gameoftheday/tproduct/138128129202-ea-play-12-mesyatsev-turtsiya",
+    "genre": "ЕА Play",
+    "rating": "4.0"
+  },
+  {
+    "id": 506,
+    "title": "EA Play 1 месяц Турция",
+    "platform": "PS5",
+    "price": 990,
+    "category": "action",
+    "image": "https://static.tildacdn.com/stor3766-6135-4766-b034-613564663336/78381525.jpg",
+    "link": "http://arenapsgm.ru/gameoftheday/tproduct/781898767812-ea-play-1-mesyats-turtsiya",
+    "genre": "ЕА Play",
+    "rating": "4.0"
+  },
+  {
     "id": 9,
     "title": "Call of Duty: Modern Warfare III PS4/PS5",
     "platform": "PS4",
@@ -176,17 +935,6 @@
     "rating": "4.0"
   },
   {
-    "id": 17,
-    "title": "Test Drive Unlimited Solar Crown PS5",
-    "platform": "PS5",
-    "price": 205,
-    "category": "racing",
-    "image": "https://static.tildacdn.com/stor3961-6138-4536-b465-633366303730/20663505.png",
-    "link": "http://arenapsgm.ru/gamescatalog/tproduct/774960088442-test-drive-unlimited-solar-crown-ps5",
-    "genre": "Все игры;Silent Hilll 2 рекомендации;Wukong рекомендации;Test Drive;Alane Wake 2 рекомендации;Новинки;Warhammer 40 рекомендации;COD 6 рекомендации;Assassin’s Creed Shadows рекомендации;Star wars рекомендации;Until Dawn remake рекомендации;Dead Rising рекомендации;FC 25 рекомендации;GOD2 рекомендации;Life is Strange: Double Exposure рекомендации;A Quiet Place рекомендации;Dragon Age: 2024 рекомендации;Lego Horizon Adventures PS5 Рекомендации;Spider man 2 рекомендации;Hogwarts Legacy Deluxe рекомендации;RAFT Рекомендации;Только PS5;Гонки",
-    "rating": "4.0"
-  },
-  {
     "id": 18,
     "title": "Alan Wake 2 - Deluxe Edition PS5",
     "platform": "PS5",
@@ -198,72 +946,6 @@
     "rating": "4.0"
   },
   {
-    "id": 19,
-    "title": "SILENT HILL 2 PS5",
-    "platform": "PS5",
-    "price": 350,
-    "category": "action",
-    "image": "https://static.tildacdn.com/stor6535-3735-4539-a437-666665623838/85394000.jpg",
-    "link": "http://arenapsgm.ru/gamescatalog/tproduct/106644149512-silent-hill-2-ps5",
-    "genre": "Все игры;Silent Hilll 2;Wukong рекомендации;Alane Wake 2 рекомендации;Новинки;Warhammer 40 рекомендации;COD 6 рекомендации;Assassin’s Creed Shadows рекомендации;Star wars рекомендации;Until Dawn remake рекомендации;Dead Rising рекомендации;Test Drive Рекомендации;FC 25 рекомендации;GOD2 рекомендации;Life is Strange: Double Exposure рекомендации;A Quiet Place рекомендации;Dragon Age: 2024 рекомендации;Lego Horizon Adventures PS5 Рекомендации;Spider man 2 рекомендации;Hogwarts Legacy Deluxe рекомендации;RAFT Рекомендации;Только PS5",
-    "rating": "4.0"
-  },
-  {
-    "id": 20,
-    "title": "Black Myth: Wukong PS5",
-    "platform": "PS5",
-    "price": 499,
-    "category": "action",
-    "image": "https://static.tildacdn.com/tild3035-3963-4132-b633-626635613161/IMG_8246.JPG",
-    "link": "http://arenapsgm.ru/wukong/tproduct/950543024072-black-myth-wukong-ps5",
-    "genre": "Вуконг;Alane Wake 2 рекомендации;Silent Hilll 2 рекомендации;Новинки;Warhammer 40 рекомендации;COD 6 рекомендации;Assassin’s Creed Shadows рекомендации;Star wars рекомендации;Until Dawn remake рекомендации;Dead Rising рекомендации;Test Drive Рекомендации;FC 25 рекомендации;Все игры;GOD2 рекомендации;Life is Strange: Double Exposure рекомендации;A Quiet Place рекомендации;Dragon Age: 2024 рекомендации;Lego Horizon Adventures PS5 Рекомендации;Spider man 2 рекомендации;Hogwarts Legacy Deluxe рекомендации;RAFT Рекомендации;Только PS5;Game Awards 2024",
-    "rating": "4.0"
-  },
-  {
-    "id": 21,
-    "title": "Call of Duty: Black Ops 6 PS4/PS5",
-    "platform": "PS4",
-    "price": 499,
-    "category": "action",
-    "image": "https://static.tildacdn.com/stor6565-6238-4935-a366-653739343863/34144736.png",
-    "link": "http://arenapsgm.ru/gamescatalog/tproduct/438064187402-call-of-duty-black-ops-6-ps4ps5",
-    "genre": "Все игры;Новинки;COD 6;Шутеры;Лента на главной;Боевики",
-    "rating": "4.0"
-  },
-  {
-    "id": 22,
-    "title": "Until Dawn remake PS5",
-    "platform": "PS5",
-    "price": 799,
-    "category": "action",
-    "image": "https://static.tildacdn.com/stor3065-3630-4331-b230-663339636562/71747286.jpg",
-    "link": "http://arenapsgm.ru/alanwake2deluxe/tproduct/851847968552-until-dawn-remake-ps5",
-    "genre": "Wukong рекомендации;Alane Wake 2 рекомендации;Новинки;Warhammer 40 рекомендации;COD 6 рекомендации;Assassin’s Creed Shadows рекомендации;Star wars рекомендации;Until Dawn remake PS5;Dead Rising рекомендации;Test Drive Рекомендации;FC 25 рекомендации;Все игры;GOD2 рекомендации;Life is Strange: Double Exposure рекомендации;A Quiet Place рекомендации;Dragon Age: 2024 рекомендации;Lego Horizon Adventures PS5 Рекомендации;Spider man 2 рекомендации;Hogwarts Legacy Deluxe рекомендации;RAFT Рекомендации;Только PS5;Игры на двоих;Интерактивное кино",
-    "rating": "4.0"
-  },
-  {
-    "id": 23,
-    "title": "Dead Rising Deluxe Remaster PS5",
-    "platform": "PS5",
-    "price": 299,
-    "category": "action",
-    "image": "https://static.tildacdn.com/stor3732-6132-4561-a562-343163386132/28968143.jpg",
-    "link": "http://arenapsgm.ru/deadrisingremasteredps5/tproduct/189394349752-dead-rising-deluxe-remaster-ps5",
-    "genre": "Dead Rising;Silent Hilll 2 рекомендации;Wukong рекомендации;Alane Wake 2 рекомендации;Новинки;Warhammer 40 рекомендации;COD 6 рекомендации;Assassin’s Creed Shadows рекомендации;Star wars рекомендации;Until Dawn remake рекомендации;Test Drive Рекомендации;FC 25 рекомендации;Все игры;GOD2 рекомендации;Life is Strange: Double Exposure рекомендации;A Quiet Place рекомендации;Dragon Age: 2024 рекомендации;Lego Horizon Adventures PS5 Рекомендации;Spider man 2 рекомендации;Hogwarts Legacy Deluxe рекомендации;RAFT Рекомендации;Только PS5;Приключения;Боевики;Хоррор",
-    "rating": "4.0"
-  },
-  {
-    "id": 24,
-    "title": "FC 25 PS4/PS5",
-    "platform": "PS4",
-    "price": 295,
-    "category": "sport",
-    "image": "https://static.tildacdn.com/stor6536-6631-4233-a639-616630336262/73112645.jpg",
-    "link": "http://arenapsgm.ru/fc25/tproduct/813340055242-fc-25-ps4ps5",
-    "genre": "FC 25;Silent Hilll 2 рекомендации;Wukong рекомендации;Alane Wake 2 рекомендации;Новинки;Warhammer 40 рекомендации;COD 6 рекомендации;Assassin’s Creed Shadows рекомендации;Star wars рекомендации;Until Dawn remake рекомендации;Dead Rising рекомендации;Все игры;GOD2 рекомендации;Life is Strange: Double Exposure рекомендации;A Quiet Place рекомендации;Dragon Age: 2024 рекомендации;Lego Horizon Adventures PS5 Рекомендации;Spider man 2 рекомендации;Hogwarts Legacy Deluxe рекомендации;Лента на главной;RAFT Рекомендации;Игры на двоих;Спорт;Game Awards 2024",
-    "rating": "4.0"
-  },
-  {
     "id": 25,
     "title": "God of War: Ragnarök PS4/PS5",
     "platform": "PS4",
@@ -272,72 +954,6 @@
     "image": "https://static.tildacdn.com/stor3965-6566-4634-b431-646563373531/30405341.jpg",
     "link": "http://arenapsgm.ru/gowragnarok/tproduct/746381284502-god-of-war-ragnark-ps4ps5",
     "genre": "GOD2;Silent Hilll 2 рекомендации;Wukong рекомендации;Alane Wake 2 Deluxe;Warhammer 40 рекомендации;COD 6 рекомендации;Assassin’s Creed Shadows рекомендации;Star wars рекомендации;Until Dawn remake рекомендации;Dead Rising рекомендации;Test Drive Рекомендации;FC 25 рекомендации;Все игры;Life is Strange: Double Exposure рекомендации;A Quiet Place рекомендации;Dragon Age: 2024 рекомендации;Lego Horizon Adventures PS5 Рекомендации;Spider man 2 рекомендации;Hogwarts Legacy Deluxe рекомендации;RAFT Рекомендации",
-    "rating": "4.0"
-  },
-  {
-    "id": 26,
-    "title": "Life is Strange: Double Exposure Ultimate Edition PS5",
-    "platform": "PS5",
-    "price": 359,
-    "category": "action",
-    "image": "https://static.tildacdn.com/stor6236-6262-4033-b666-393263646632/37556528.jpg",
-    "link": "http://arenapsgm.ru/newgame/tproduct/969306241922-life-is-strange-double-exposure-ultimate",
-    "genre": "Новинки;Wukong рекомендации;Test Drive Рекомендации;Silent Hilll 2 рекомендации;Warhammer 40 рекомендации;Assassin’s Creed Shadows рекомендации;Star wars рекомендации;Until Dawn remake рекомендации;Dead Rising рекомендации;FC 25 рекомендации;GOD2 рекомендации;Все игры;Life is Strange: Double Exposure PS5;A Quiet Place рекомендации;Dragon Age: 2024 рекомендации;Lego Horizon Adventures PS5 Рекомендации;Spider man 2 рекомендации;Hogwarts Legacy Deluxe рекомендации;RAFT Рекомендации;Только PS5;Интерактивное кино",
-    "rating": "4.0"
-  },
-  {
-    "id": 27,
-    "title": "PS Plus Essential",
-    "platform": "PS5",
-    "price": 1325,
-    "category": "action",
-    "image": "https://static.tildacdn.com/stor6165-6262-4538-a264-626362623034/90898039.png",
-    "link": "http://arenapsgm.ru/playstationplus/tproduct/265723870132-ps-plus-essential",
-    "genre": "Подписка Plus;Lego Horizon Adventures PS5 Рекомендации;Spider man 2 рекомендации;Hogwarts Legacy Deluxe рекомендации;RAFT Рекомендации",
-    "rating": "4.0"
-  },
-  {
-    "id": 28,
-    "title": "Dragon Age: На страже Завесы PS5",
-    "platform": "PS5",
-    "price": 499,
-    "category": "action",
-    "image": "https://static.tildacdn.com/stor3139-6131-4037-a131-356536623131/67575235.jpg",
-    "link": "http://arenapsgm.ru/newgame/tproduct/407741917022-dragon-age-na-strazhe-zavesi-ps5",
-    "genre": "Новинки;Wukong рекомендации;Test Drive Рекомендации;Alane Wake 2 рекомендации;Silent Hilll 2 рекомендации;Warhammer 40 рекомендации;COD 6 рекомендации;Assassin’s Creed Shadows рекомендации;Star wars рекомендации;Until Dawn remake рекомендации;Dead Rising рекомендации;FC 25 рекомендации;Все игры;GOD2 рекомендации;Life is Strange: Double Exposure рекомендации;A Quiet Place рекомендации;Dragon Age: 2024;Lego Horizon Adventures PS5 Рекомендации;Spider man 2 рекомендации;Hogwarts Legacy Deluxe рекомендации;RAFT Рекомендации;Только PS5",
-    "rating": "4.0"
-  },
-  {
-    "id": 29,
-    "title": "PS Plus Extra",
-    "platform": "PS5",
-    "price": 1985,
-    "category": "action",
-    "image": "https://static.tildacdn.com/stor3563-3963-4234-a539-626366356163/45694411.png",
-    "link": "http://arenapsgm.ru/playstationplus/tproduct/120026529562-ps-plus-extra",
-    "genre": "Подписка Plus;Lego Horizon Adventures PS5 Рекомендации;Spider man 2 рекомендации;Hogwarts Legacy Deluxe рекомендации;RAFT Рекомендации",
-    "rating": "4.0"
-  },
-  {
-    "id": 30,
-    "title": "PS Plus Deluxe",
-    "platform": "PS5",
-    "price": 2325,
-    "category": "action",
-    "image": "https://static.tildacdn.com/stor6131-6537-4366-b637-363262353236/81647396.png",
-    "link": "http://arenapsgm.ru/playstationplus/tproduct/184221731042-ps-plus-deluxe",
-    "genre": "Подписка Plus;Lego Horizon Adventures PS5 Рекомендации;Spider man 2 рекомендации;Hogwarts Legacy Deluxe рекомендации;RAFT Рекомендации",
-    "rating": "4.0"
-  },
-  {
-    "id": 31,
-    "title": "Lego Horizon Adventures PS5",
-    "platform": "PS5",
-    "price": 499,
-    "category": "action",
-    "image": "https://static.tildacdn.com/stor3165-3330-4638-a135-303966366639/18642710.jpg",
-    "link": "http://arenapsgm.ru/newgame/tproduct/736250975482-lego-horizon-adventures-ps5",
-    "genre": "Новинки;Wukong рекомендации;Test Drive Рекомендации;Silent Hilll 2 рекомендации;Alane Wake 2 рекомендации;Warhammer 40 рекомендации;COD 6 рекомендации;Assassin’s Creed Shadows рекомендации;Star wars рекомендации;Until Dawn remake рекомендации;Dead Rising рекомендации;FC 25 рекомендации;Все игры;GOD2 рекомендации;Life is Strange: Double Exposure рекомендации;A Quiet Place рекомендации;Dragon Age: 2024 рекомендации;Lego Horizon Adventures PS5;Spider man 2 рекомендации;Hogwarts Legacy Deluxe рекомендации;RAFT Рекомендации;Только PS5;Игры на двоих",
     "rating": "4.0"
   },
   {
@@ -407,17 +1023,6 @@
     "rating": "4.0"
   },
   {
-    "id": 38,
-    "title": "Raft PS5",
-    "platform": "PS5",
-    "price": 280,
-    "category": "action",
-    "image": "https://static.tildacdn.com/stor3263-6461-4531-b137-363964633730/87548449.png",
-    "link": "http://arenapsgm.ru/newgame/tproduct/634814860882-raft-ps5",
-    "genre": "Новинки;Лента на главной;Test Drive Рекомендации;Alane Wake 2 рекомендации;Silent Hilll 2 рекомендации;Warhammer 40 рекомендации;Assassin’s Creed Shadows рекомендации;COD 6 рекомендации;Star wars рекомендации;Until Dawn remake рекомендации;FC 25 рекомендации;Dead Rising рекомендации;GOD2 рекомендации;Все игры;A Quiet Place рекомендации;Dragon Age: 2024 рекомендации;Lego Horizon Adventures PS5 Рекомендации;Spider man 2 рекомендации;Hogwarts Legacy Deluxe рекомендации;Dying light 2 Stay Human рекомендации;RAFT;Только PS5",
-    "rating": "4.0"
-  },
-  {
     "id": 39,
     "title": "Дожить до Рассвета PS4",
     "platform": "PS4",
@@ -437,17 +1042,6 @@
     "image": "https://static.tildacdn.com/stor6439-3830-4338-a530-353963613762/66742695.png",
     "link": "http://arenapsgm.ru/gamescatalog/tproduct/828237620992-atomic-heart-ps4ps5",
     "genre": "Все игры;Лента на главной;Шутеры",
-    "rating": "4.0"
-  },
-  {
-    "id": 41,
-    "title": "GTA 6",
-    "platform": "PS5",
-    "price": 0,
-    "category": "action",
-    "image": "https://static.tildacdn.com/stor6334-3366-4633-a364-613836323538/81527947.png",
-    "link": "http://arenapsgm.ru/newgame/tproduct/688605190782-gta-6",
-    "genre": "GTA 6;Новинки;Все игры;Только PS5;Game Awards 2024",
     "rating": "4.0"
   },
   {
@@ -492,17 +1086,6 @@
     "image": "https://static.tildacdn.com/stor3762-3333-4832-b563-643832656232/83903016.png",
     "link": "http://arenapsgm.ru/tproduct/167279690422-ufc-5-ps5",
     "genre": "Лента на главной;Все игры;Только PS5;Игры на двоих;Спорт;FC 25 рекомендации",
-    "rating": "4.0"
-  },
-  {
-    "id": 46,
-    "title": "Empire Of The Ants PS5",
-    "platform": "PS5",
-    "price": 280,
-    "category": "action",
-    "image": "https://static.tildacdn.com/stor3138-6636-4539-b137-663237356430/29724351.png",
-    "link": "http://arenapsgm.ru/tproduct/436287275002-empire-of-the-ants-ps5",
-    "genre": "Лента на главной;Все игры;Только PS5;Приключения;Стратегии и симуляторы;Новинки;RAFT Рекомендации",
     "rating": "4.0"
   },
   {
@@ -715,17 +1298,6 @@
     "rating": "4.0"
   },
   {
-    "id": 66,
-    "title": "Alone in the Dark PS5",
-    "platform": "PS5",
-    "price": 359,
-    "category": "action",
-    "image": "https://static.tildacdn.com/stor3335-6537-4964-b337-383161333630/92664336.jpg",
-    "link": "http://arenapsgm.ru/tproduct/801217888642-alone-in-the-dark-ps5",
-    "genre": "Лента на главной;Все игры;Только PS5;Хоррор;Новинки",
-    "rating": "4.0"
-  },
-  {
     "id": 67,
     "title": "Amnesia rebirth PS4/PS5",
     "platform": "PS4",
@@ -825,17 +1397,6 @@
     "rating": "4.0"
   },
   {
-    "id": 76,
-    "title": "Path of Exile 2 PS5",
-    "platform": "PS5",
-    "price": 359,
-    "category": "rpg",
-    "image": "https://static.tildacdn.com/stor6163-3234-4564-a565-363966323864/97093336.jpg",
-    "link": "http://arenapsgm.ru/newgame/tproduct/196159191462-path-of-exile-2-ps5",
-    "genre": "Новинки;Лента на главной;Все игры;Только PS5;Игры на двоих;Приключения;РПГ;Платформеры;RAFT Рекомендации;Life is Strange: Double Exposure рекомендации;Alane Wake 2 рекомендации;Dragon Age: 2024 рекомендации",
-    "rating": "4.0"
-  },
-  {
     "id": 77,
     "title": "Assassin's Creed: Origins Deluxe PS4/PS5",
     "platform": "PS4",
@@ -855,17 +1416,6 @@
     "image": "https://static.tildacdn.com/stor6339-3062-4630-a137-656565623132/65652951.jpg",
     "link": "http://arenapsgm.ru/tproduct/395832840362-assassins-creed-ezio-collection-ps4ps5",
     "genre": "Лента на главной;Все игры;Приключения;Боевики",
-    "rating": "4.0"
-  },
-  {
-    "id": 79,
-    "title": "Legacy of Kain Soul Reaver 1 и 2 Remastered PS4/PS5",
-    "platform": "PS4",
-    "price": 359,
-    "category": "action",
-    "image": "https://static.tildacdn.com/stor6634-3063-4166-a665-613734653435/48429657.jpg",
-    "link": "http://arenapsgm.ru/tproduct/530440672632-legacy-of-kain-soul-reaver-1-i-2-remaste",
-    "genre": "Лента на главной;Все игры;Приключения;Стратегии и симуляторы;Новинки",
     "rating": "4.0"
   },
   {
@@ -1584,17 +2134,6 @@
     "rating": "4.0"
   },
   {
-    "id": 145,
-    "title": "Arma Reforger PS5",
-    "platform": "PS5",
-    "price": 539,
-    "category": "action",
-    "image": "https://static.tildacdn.com/stor6161-6463-4561-a336-633964326239/77193656.jpg",
-    "link": "http://arenapsgm.ru/tproduct/420130776482-arma-reforger-ps5",
-    "genre": "Лента на главной;Все игры;Только PS5;Шутеры;Боевики;Новинки",
-    "rating": "4.0"
-  },
-  {
     "id": 146,
     "title": "Dark Souls II:Scholar of the First Sin PS4/PS5",
     "platform": "PS4",
@@ -1636,17 +2175,6 @@
     "image": "https://static.tildacdn.com/stor3961-3261-4738-b763-363861313562/62698832.jpg",
     "link": "http://arenapsgm.ru/gamescatalog/tproduct/924459932602-lego-harry-potter-collection-ps4",
     "genre": "Все игры;Лента на главной;Игры на двоих;Приключения;Платформеры",
-    "rating": "4.0"
-  },
-  {
-    "id": 150,
-    "title": "Phasmophobia PS5",
-    "platform": "PS5",
-    "price": 280,
-    "category": "action",
-    "image": "https://static.tildacdn.com/stor3565-3961-4730-b534-393338343038/95744622.jpg",
-    "link": "http://arenapsgm.ru/gamescatalog/tproduct/433078899482-phasmophobia-ps5",
-    "genre": "Все игры;Боевики;Лента на главной;Хоррор;Новинки;Приключения;Только PS5;VR",
     "rating": "4.0"
   },
   {
@@ -2582,17 +3110,6 @@
     "image": "https://static.tildacdn.com/stor3436-3132-4636-b335-353738383863/29311360.jpg",
     "link": "http://arenapsgm.ru/tproduct/438672480562-twin-mirror-ps4ps5",
     "genre": "Лента на главной;Все игры;Интерактивное кино",
-    "rating": "4.0"
-  },
-  {
-    "id": 236,
-    "title": "Atomic Heart: «Чары морских глубин» PS4/PS5",
-    "platform": "PS4",
-    "price": 539,
-    "category": "action",
-    "image": "https://static.tildacdn.com/stor3939-3037-4737-b466-663562373130/83180985.jpg",
-    "link": "http://arenapsgm.ru/gamescatalog/tproduct/775960266132-atomic-heart-chari-morskih-glubin-ps4ps5",
-    "genre": "Все игры;Лента на главной;Приключения;Шутеры;Боевики;Новинки",
     "rating": "4.0"
   },
   {
@@ -4125,17 +4642,6 @@
     "rating": "4.0"
   },
   {
-    "id": 376,
-    "title": "NBA25 PS4/PS5",
-    "platform": "PS4",
-    "price": 490,
-    "category": "sport",
-    "image": "https://static.tildacdn.com/stor3034-3363-4134-b661-316236353836/60503214.png",
-    "link": "http://arenapsgm.ru/tproduct/920685327832-nba25-ps4ps5",
-    "genre": "Лента на главной;Все игры;Игры на двоих;Спорт;Новинки",
-    "rating": "4.0"
-  },
-  {
     "id": 377,
     "title": "TEKKEN 8 PS5",
     "platform": "PS5",
@@ -4353,17 +4859,6 @@
     "image": "https://static.tildacdn.com/stor3133-6531-4865-b339-383235323632/49066592.jpg",
     "link": "http://arenapsgm.ru/tproduct/602591317372-the-medium-ps5",
     "genre": "Лента на главной;Все игры;Хоррор",
-    "rating": "4.0"
-  },
-  {
-    "id": 397,
-    "title": "Monster Hunter Wilds PS5",
-    "platform": "PS5",
-    "price": 350,
-    "category": "rpg",
-    "image": "https://static.tildacdn.com/stor6164-3637-4266-b538-393065316163/68243453.png",
-    "link": "http://arenapsgm.ru/tproduct/790073278762-monster-hunter-wilds-ps5",
-    "genre": "Лента на главной;Все игры;Только PS5;Приключения;РПГ;Wukong рекомендации;Новинки",
     "rating": "4.0"
   },
   {
@@ -4895,17 +5390,6 @@
     "rating": "4.0"
   },
   {
-    "id": 446,
-    "title": "Forza Horizon 5 PS5",
-    "platform": "PS5",
-    "price": 690,
-    "category": "racing",
-    "image": "https://static.tildacdn.com/stor3963-6233-4236-b061-383236393862/90974005.jpg",
-    "link": "http://arenapsgm.ru/tproduct/268834177852-forza-horizon-5-ps5",
-    "genre": "Лента на главной;Все игры;Только PS5;Гонки;Приключения;Новинки;Test Drive Рекомендации",
-    "rating": "4.0"
-  },
-  {
     "id": 447,
     "title": "Forza Horizon 5 PS5 НАВСЕГДА",
     "platform": "PS5",
@@ -4928,17 +5412,6 @@
     "rating": "4.0"
   },
   {
-    "id": 449,
-    "title": "Split Fiction PS5",
-    "platform": "PS5",
-    "price": 939,
-    "category": "action",
-    "image": "https://static.tildacdn.com/stor3034-3936-4264-a631-663039653334/19149462.jpg",
-    "link": "http://arenapsgm.ru/tproduct/447398070622-split-fiction-ps5",
-    "genre": "Лента на главной;Все игры;Только PS5;Игры на двоих;Приключения;Платформеры;Новинки",
-    "rating": "4.0"
-  },
-  {
     "id": 450,
     "title": "Split Fiction PS5 НАВСЕГДА",
     "platform": "PS5",
@@ -4947,17 +5420,6 @@
     "image": "https://static.tildacdn.com/stor3336-3165-4534-b930-636630313261/39594814.jpg",
     "link": "http://arenapsgm.ru/p2p3/tproduct/868024225702-split-fiction-ps5-navsegda",
     "genre": "П2 и П3",
-    "rating": "4.0"
-  },
-  {
-    "id": 451,
-    "title": "DEATH STRANDING 2: ON THE BEACH",
-    "platform": "PS5",
-    "price": 899,
-    "category": "rpg",
-    "image": "https://static.tildacdn.com/stor3661-3736-4231-b736-623137366165/65223383.png",
-    "link": "http://arenapsgm.ru/tproduct/175800524712-death-stranding-2-on-the-beach",
-    "genre": "Лента на главной;Все игры;Только PS5;Приключения;РПГ;Хоррор;Новинки;Новинка главная шапка",
     "rating": "4.0"
   },
   {
@@ -4991,17 +5453,6 @@
     "image": "https://static.tildacdn.com/stor3561-6164-4637-b330-613833376662/46862532.jpg",
     "link": "http://arenapsgm.ru/tproduct/925231900842-divinity-original-sin-2-definitive-editi",
     "genre": "Лента на главной;Все игры;РПГ;Приключения;Боевики",
-    "rating": "4.0"
-  },
-  {
-    "id": 455,
-    "title": "Sniper Elite: Resistance PS4/PS5",
-    "platform": "PS4",
-    "price": 439,
-    "category": "action",
-    "image": "https://static.tildacdn.com/stor6663-6536-4433-b531-336233363737/16186605.jpg",
-    "link": "http://arenapsgm.ru/tproduct/776073561712-sniper-elite-resistance-ps4ps5",
-    "genre": "Лента на главной;Все игры;Шутеры;Боевики;Новинки",
     "rating": "4.0"
   },
   {
@@ -5057,17 +5508,6 @@
     "image": "https://static.tildacdn.com/stor6334-3938-4330-b635-323732633132/26864190.jpg",
     "link": "http://arenapsgm.ru/p2p3/tproduct/299373692382-the-first-berserker-khazan-ps5-ps5-navse",
     "genre": "П2 и П3",
-    "rating": "4.0"
-  },
-  {
-    "id": 461,
-    "title": "The First Berserker: Khazan PS5",
-    "platform": "PS5",
-    "price": 350,
-    "category": "rpg",
-    "image": "https://static.tildacdn.com/stor6334-3938-4330-b635-323732633132/26864190.jpg",
-    "link": "http://arenapsgm.ru/tproduct/984028779152-the-first-berserker-khazan-ps5",
-    "genre": "Лента на главной;Все игры;Только PS5;Боевики;Приключения;Новинки;РПГ",
     "rating": "4.0"
   },
   {
@@ -5445,17 +5885,6 @@
     "rating": "4.0"
   },
   {
-    "id": 496,
-    "title": "Аренда PS Plus PS4/PS5",
-    "platform": "PS4",
-    "price": 490,
-    "category": "sport",
-    "image": "https://static.tildacdn.com/stor3662-6639-4733-b130-386162623738/80643264.jpg",
-    "link": "http://arenapsgm.ru/novinkikatalogadecpsplus/tproduct/199915107972-arenda-ps-plus-ps4ps5",
-    "genre": "Подписка Plus;Лента на главной;Все игры;Интерактивное кино;Только PS5;Игры на двоих;Спорт;Шутеры;Гонки;Приключения;РПГ;Платформеры;Боевики;VR;Стратегии и симуляторы;Хоррор",
-    "rating": "4.0"
-  },
-  {
     "id": 497,
     "title": "Пустой Турецкий аккаунт PS4/PS5",
     "platform": "PS4",
@@ -5522,17 +5951,6 @@
     "rating": "4.0"
   },
   {
-    "id": 503,
-    "title": "Indiana Jones and the Great Circle PS5",
-    "platform": "PS5",
-    "price": 899,
-    "category": "rpg",
-    "image": "https://static.tildacdn.com/stor6132-3632-4632-a361-613166326266/24072359.jpg",
-    "link": "http://arenapsgm.ru/gamescatalog/tproduct/980652415812-indiana-jones-and-the-great-circle-ps5",
-    "genre": "Все игры;Приключения;РПГ;Боевики;Лента на главной;Новинки;статья под индиана джонс",
-    "rating": "4.0"
-  },
-  {
     "id": 504,
     "title": "Call of Duty: WWII Gold Edition PS4/PS5",
     "platform": "PS4",
@@ -5541,28 +5959,6 @@
     "image": "https://static.tildacdn.com/stor3430-3263-4734-a665-613530393965/54809482.jpg",
     "link": "http://arenapsgm.ru/tproduct/197049562152-call-of-duty-wwii-gold-edition-ps4ps5",
     "genre": "Silent Hilll 2 рекомендации;Шутеры;Wukong рекомендации;Alane Wake 2 рекомендации;Warhammer 40 рекомендации;COD 6 рекомендации;Assassin’s Creed Shadows рекомендации;Star wars рекомендации;Until Dawn remake рекомендации;Dead Rising рекомендации;Test Drive Рекомендации;FC 25 рекомендации;Все игры;GOD2 рекомендации;Life is Strange: Double Exposure рекомендации;A Quiet Place рекомендации;Dragon Age: 2024 рекомендации;Lego Horizon Adventures PS5 Рекомендации;Spider man 2 рекомендации;Hogwarts Legacy Deluxe рекомендации;RAFT Рекомендации;Игры на двоих",
-    "rating": "4.0"
-  },
-  {
-    "id": 505,
-    "title": "EA Play 12 месяцев Турция",
-    "platform": "PS5",
-    "price": 6749,
-    "category": "action",
-    "image": "https://static.tildacdn.com/stor3661-6663-4435-b331-633761323731/77529515.jpg",
-    "link": "http://arenapsgm.ru/gameoftheday/tproduct/138128129202-ea-play-12-mesyatsev-turtsiya",
-    "genre": "ЕА Play",
-    "rating": "4.0"
-  },
-  {
-    "id": 506,
-    "title": "EA Play 1 месяц Турция",
-    "platform": "PS5",
-    "price": 990,
-    "category": "action",
-    "image": "https://static.tildacdn.com/stor3766-6135-4766-b034-613564663336/78381525.jpg",
-    "link": "http://arenapsgm.ru/gameoftheday/tproduct/781898767812-ea-play-1-mesyats-turtsiya",
-    "genre": "ЕА Play",
     "rating": "4.0"
   },
   {
@@ -5742,28 +6138,6 @@
     "rating": "4.0"
   },
   {
-    "id": 523,
-    "title": "Days Gone Remastered PS5",
-    "platform": "PS5",
-    "price": 490,
-    "category": "action",
-    "image": "https://static.tildacdn.com/stor6530-3034-4731-b730-326235666636/64800502.png",
-    "link": "http://arenapsgm.ru/gamescatalog/tproduct/325170798982-days-gone-remastered-ps5",
-    "genre": "Все игры;Хоррор;Боевики;Лента на главной;Новинки",
-    "rating": "4.0"
-  },
-  {
-    "id": 524,
-    "title": "Clair Obscur: Expedition 33 PS5",
-    "platform": "PS5",
-    "price": 639,
-    "category": "rpg",
-    "image": "https://static.tildacdn.com/stor3666-3461-4962-b465-303130656631/67009477.jpg",
-    "link": "http://arenapsgm.ru/gamescatalog/tproduct/984975691462-clair-obscur-expedition-33-ps5",
-    "genre": "Все игры;Шутеры;Боевики;Только PS5;Лента на главной;Новинки;РПГ;Приключения;Стратегии и симуляторы",
-    "rating": "4.0"
-  },
-  {
     "id": 525,
     "title": "Clair Obscur: Expedition 33 PS5 НАВСЕГДА",
     "platform": "PS5",
@@ -5794,17 +6168,6 @@
     "image": "https://static.tildacdn.com/stor6635-3765-4165-b331-356235356262/75675687.jpg",
     "link": "http://arenapsgm.ru/gamescatalog/tproduct/353564745162-overcooked-2-ps4ps5",
     "genre": "Все игры;Лента на главной;Игры на двоих;Приключения;Стратегии и симуляторы;Платформеры",
-    "rating": "4.0"
-  },
-  {
-    "id": 528,
-    "title": "Assassin’s Creed Shadows PS5 + Split Fiction PS5",
-    "platform": "PS5",
-    "price": 1514,
-    "category": "action",
-    "image": "https://static.tildacdn.com/stor6463-6366-4266-b532-663062326630/10023487.jpg",
-    "link": "http://arenapsgm.ru/gamescatalog/tproduct/710433206142-assassins-creed-shadows-ps5-split-fictio",
-    "genre": "Все игры;Только PS5;Лента на главной;Новинки;Приключения;Игры на двоих;Платформеры",
     "rating": "4.0"
   },
   {
@@ -5896,17 +6259,6 @@
     "rating": "4.0"
   },
   {
-    "id": 537,
-    "title": "DOOM: The Dark Ages PS5",
-    "platform": "PS5",
-    "price": 349,
-    "category": "action",
-    "image": "https://static.tildacdn.com/stor3930-6136-4332-a561-386134663835/90254436.jpg",
-    "link": "http://arenapsgm.ru/gamescatalog/tproduct/215589533562-doom-the-dark-ages-ps5",
-    "genre": "Все игры;Wukong рекомендации;Alane Wake 2 рекомендации;Новинки;Warhammer 40 рекомендации;COD 6 рекомендации;Assassin’s Creed Shadows;Star wars рекомендации;Until Dawn remake рекомендации;Dead Rising рекомендации;Test Drive Рекомендации;FC 25 рекомендации;GOD2 рекомендации;Life is Strange: Double Exposure рекомендации;A Quiet Place рекомендации;Dragon Age: 2024 рекомендации;Lego Horizon Adventures PS5 Рекомендации;Spider man 2 рекомендации;Hogwarts Legacy Deluxe рекомендации;RAFT Рекомендации;Только PS5;Шутеры;Лента на главной;Боевики;Хоррор;Doom для статьи",
-    "rating": "4.0"
-  },
-  {
     "id": 538,
     "title": "The Beast Inside PS4/PS5",
     "platform": "PS4",
@@ -5951,28 +6303,6 @@
     "rating": "4.0"
   },
   {
-    "id": 542,
-    "title": "Mutant Ninja Turtles: Mutants Unleashed PS4/PS5",
-    "platform": "PS4",
-    "price": 359,
-    "category": "action",
-    "image": "https://static.tildacdn.com/stor3264-3330-4662-a366-626139316437/78884147.jpg",
-    "link": "http://arenapsgm.ru/gamescatalog/tproduct/464403189862-mutant-ninja-turtles-mutants-unleashed-p",
-    "genre": "Все игры;Silent Hilll 2 рекомендации;Wukong рекомендации;Alane Wake 2 рекомендации;Новинки;Warhammer 40 рекомендации;COD 6 рекомендации;Assassin’s Creed Shadows рекомендации;Star wars рекомендации;Until Dawn remake рекомендации;Dead Rising рекомендации;Test Drive Рекомендации;FC 25 рекомендации;GOD2 рекомендации;Life is Strange: Double Exposure рекомендации;A Quiet Place рекомендации;Dragon Age: 2024 рекомендации;Lego Horizon Adventures PS5 Рекомендации;Spider man 2 рекомендации;Hogwarts Legacy Deluxe рекомендации;RAFT Рекомендации;Игры на двоих",
-    "rating": "4.0"
-  },
-  {
-    "id": 543,
-    "title": "The Precinct PS5",
-    "platform": "PS5",
-    "price": 449,
-    "category": "action",
-    "image": "https://static.tildacdn.com/stor3337-6665-4861-b936-386233386434/10127497.jpg",
-    "link": "http://arenapsgm.ru/gamescatalog/tproduct/933357485712-the-precinct-ps5",
-    "genre": "Все игры;Dragon Age: 2024 рекомендации;Until Dawn remake рекомендации;Assassin’s Creed Shadows рекомендации;Life is Strange: Double Exposure рекомендации;Test Drive Рекомендации;Silent Hilll 2 рекомендации;COD 6 рекомендации;Dead Rising рекомендации;Wukong рекомендации;GOD2 рекомендации;A Quiet Place рекомендации;Lego Horizon Adventures PS5 Рекомендации;Alane Wake 2 рекомендации;Star wars рекомендации;FC 25 рекомендации;Warhammer 40 рекомендации;Spider man 2;Лента на главной;Hogwarts Legacy Deluxe рекомендации;RAFT Рекомендации;Только PS5;Новинки",
-    "rating": "4.0"
-  },
-  {
     "id": 544,
     "title": "The Precinct PS5 НАВСЕГДА",
     "platform": "PS5",
@@ -5995,17 +6325,6 @@
     "rating": "4.0"
   },
   {
-    "id": 546,
-    "title": "RoadCraft PS5",
-    "platform": "PS5",
-    "price": 790,
-    "category": "action",
-    "image": "https://static.tildacdn.com/stor3662-3163-4864-b638-653861626366/19415901.png",
-    "link": "http://arenapsgm.ru/gamescatalog/tproduct/516430430962-roadcraft-ps5",
-    "genre": "Все игры;Новинки;Wukong рекомендации;Alane Wake 2 рекомендации;Warhammer 40 рекомендации;COD 6 рекомендации;Assassin’s Creed Shadows;Star wars рекомендации;Until Dawn remake рекомендации;Dead Rising рекомендации;Test Drive Рекомендации;FC 25 рекомендации;GOD2 рекомендации;Life is Strange: Double Exposure рекомендации;A Quiet Place рекомендации;Dragon Age: 2024 рекомендации;Lego Horizon Adventures PS5 Рекомендации;Spider man 2 рекомендации;Hogwarts Legacy Deluxe рекомендации;RAFT Рекомендации;Только PS5;Шутеры;Хоррор;Боевики;Лента на главной",
-    "rating": "4.0"
-  },
-  {
     "id": 547,
     "title": "RoadCraft PS5 НАВСЕГДА",
     "platform": "PS5",
@@ -6014,39 +6333,6 @@
     "image": "https://static.tildacdn.com/stor6531-6666-4539-b434-323463663731/12225567.png",
     "link": "http://arenapsgm.ru/p2p3/tproduct/636578608922-roadcraft-ps5-navsegda",
     "genre": "П2 и П3",
-    "rating": "4.0"
-  },
-  {
-    "id": 548,
-    "title": "Assassin’s Creed Shadows PS5",
-    "platform": "PS5",
-    "price": 350,
-    "category": "action",
-    "image": "https://static.tildacdn.com/stor3033-3037-4632-a538-313239366233/63762289.jpg",
-    "link": "http://arenapsgm.ru/newgame/tproduct/957239091172-assassins-creed-shadows-ps5",
-    "genre": "Новинки;Все игры;Wukong рекомендации;Alane Wake 2 рекомендации;Warhammer 40 рекомендации;COD 6 рекомендации;Assassin’s Creed Shadows;Star wars рекомендации;Until Dawn remake рекомендации;Dead Rising рекомендации;Test Drive Рекомендации;FC 25 рекомендации;GOD2 рекомендации;Life is Strange: Double Exposure рекомендации;A Quiet Place рекомендации;Dragon Age: 2024 рекомендации;Lego Horizon Adventures PS5 Рекомендации;Spider man 2 рекомендации;Hogwarts Legacy Deluxe рекомендации;RAFT Рекомендации;Только PS5",
-    "rating": "4.0"
-  },
-  {
-    "id": 549,
-    "title": "Kingdom Come: Deliverance II PS5",
-    "platform": "PS5",
-    "price": 350,
-    "category": "rpg",
-    "image": "https://static.tildacdn.com/stor3230-6133-4234-b661-363535333935/62074213.jpg",
-    "link": "http://arenapsgm.ru/gamescatalog/tproduct/774155027312-kingdom-come-deliverance-ii-ps5",
-    "genre": "Все игры;Приключения;РПГ;Боевики;Лента на главной;Новинки",
-    "rating": "4.0"
-  },
-  {
-    "id": 550,
-    "title": "Elden Ring Nightreign PS4/PS5",
-    "platform": "PS4",
-    "price": 450,
-    "category": "action",
-    "image": "https://static.tildacdn.com/stor6261-6563-4631-a132-363738323038/27041793.jpg",
-    "link": "http://arenapsgm.ru/newgame/tproduct/966741697442-elden-ring-nightreign-ps4ps5",
-    "genre": "Новинки;Wukong рекомендации;Alane Wake 2 рекомендации;Warhammer 40 рекомендации;COD 6 рекомендации;Assassin’s Creed Shadows;Star wars рекомендации;Until Dawn remake рекомендации;Dead Rising рекомендации;Test Drive Рекомендации;FC 25 рекомендации;Все игры;GOD2 рекомендации;Life is Strange: Double Exposure рекомендации;A Quiet Place рекомендации;Dragon Age: 2024 рекомендации;Lego Horizon Adventures PS5 Рекомендации;Spider man 2 рекомендации;Hogwarts Legacy Deluxe рекомендации;RAFT Рекомендации;Только PS5;Хоррор;Лента на главной;Doom для статьи",
     "rating": "4.0"
   },
   {
@@ -6061,17 +6347,6 @@
     "rating": "4.0"
   },
   {
-    "id": 552,
-    "title": "Lies of P: Overture Bundle PS4/PS5",
-    "platform": "PS4",
-    "price": 899,
-    "category": "action",
-    "image": "https://static.tildacdn.com/stor3933-6263-4761-a265-643861396336/80890106.jpg",
-    "link": "http://arenapsgm.ru/gamescatalog/tproduct/685467940702-lies-of-p-overture-bundle-ps4ps5",
-    "genre": "Все игры;Новинки;Silent Hilll 2 рекомендации;Wukong рекомендации;Alane Wake 2 рекомендации;Warhammer 40 рекомендации;COD 6 рекомендации;Assassin’s Creed Shadows рекомендации;Star wars;Until Dawn remake рекомендации;Dead Rising рекомендации;Test Drive Рекомендации;FC 25 рекомендации;GOD2 рекомендации;Life is Strange: Double Exposure рекомендации;A Quiet Place рекомендации;Dragon Age: 2024 рекомендации;Lego Horizon Adventures PS5 Рекомендации;Spider man 2 рекомендации;Hogwarts Legacy Deluxe рекомендации;RAFT Рекомендации;Только PS5",
-    "rating": "4.0"
-  },
-  {
     "id": 553,
     "title": "Lies of P: Overture Bundle PS4/PS5 НАВСЕГДА",
     "platform": "PS4",
@@ -6080,17 +6355,6 @@
     "image": "https://static.tildacdn.com/stor6633-3532-4661-b139-353533656333/62201888.jpg",
     "link": "http://arenapsgm.ru/p2p3/tproduct/490647058702-lies-of-p-overture-bundle-ps4ps5-navsegd",
     "genre": "П2 и П3",
-    "rating": "4.0"
-  },
-  {
-    "id": 554,
-    "title": "The Alters PS5",
-    "platform": "PS5",
-    "price": 499,
-    "category": "rpg",
-    "image": "https://static.tildacdn.com/stor3962-3937-4930-b866-663331653266/71346097.png",
-    "link": "http://arenapsgm.ru/gamescatalog/tproduct/796478122682-the-alters-ps5",
-    "genre": "Все игры;Боевики;Только PS5;Лента на главной;Новинки;Приключения;РПГ;Стратегии и симуляторы;Новинка главная шапка",
     "rating": "4.0"
   },
   {
@@ -6237,17 +6501,6 @@
     "rating": "4.0"
   },
   {
-    "id": 568,
-    "title": "RoboCop: Rogue City - Unfinished Business PS5",
-    "platform": "PS5",
-    "price": 499,
-    "category": "action",
-    "image": "https://static.tildacdn.com/stor3665-3566-4066-b261-663034353836/36430003.jpg",
-    "link": "http://arenapsgm.ru/tproduct/980498123222-robocop-rogue-city-unfinished-business-p",
-    "genre": "Лента на главной;Все игры;Шутеры;Боевики;Приключения;Новинки",
-    "rating": "4.0"
-  },
-  {
     "id": 569,
     "title": "RoboCop: Rogue City - Unfinished Business PS5 НАВСЕГДА",
     "platform": "PS5",
@@ -6292,17 +6545,6 @@
     "rating": "4.0"
   },
   {
-    "id": 573,
-    "title": "WUCHANG: Fallen Feathers PS5",
-    "platform": "PS5",
-    "price": 499,
-    "category": "rpg",
-    "image": "https://static.tildacdn.com/stor3166-3166-4362-b134-333161336163/66388837.jpg",
-    "link": "http://arenapsgm.ru/gamescatalog/tproduct/640351547912-wuchang-fallen-feathers-ps5",
-    "genre": "Все игры;Приключения;РПГ;Только PS5;Лента на главной;Новинки",
-    "rating": "4.0"
-  },
-  {
     "id": 574,
     "title": "WUCHANG: Fallen Feathers PS5 НАВСЕГДА",
     "platform": "PS5",
@@ -6311,17 +6553,6 @@
     "image": "https://static.tildacdn.com/stor6530-3439-4434-a638-343462613566/58268896.jpg",
     "link": "http://arenapsgm.ru/p2p3/tproduct/220879758802-wuchang-fallen-feathers-ps5-navsegda",
     "genre": "П2 и П3",
-    "rating": "4.0"
-  },
-  {
-    "id": 575,
-    "title": "Ready or Not PS5",
-    "platform": "PS5",
-    "price": 369,
-    "category": "action",
-    "image": "https://static.tildacdn.com/stor3234-3764-4665-b936-303332346430/45442572.jpg",
-    "link": "http://arenapsgm.ru/gamescatalog/tproduct/698230808442-ready-or-not-ps5",
-    "genre": "Все игры;Приключения;Только PS5;Лента на главной;Новинки;Шутеры",
     "rating": "4.0"
   },
   {
@@ -6369,28 +6600,6 @@
     "rating": "4.0"
   },
   {
-    "id": 580,
-    "title": "Cities VR PS5",
-    "platform": "PS5",
-    "price": 499,
-    "category": "rpg",
-    "image": "https://static.tildacdn.com/stor3330-3363-4562-a664-663665623666/30752263.jpg",
-    "link": "http://arenapsgm.ru/horror/tproduct/701307187392-cities-vr-ps5",
-    "genre": "Хоррор;Все игры;Приключения;РПГ;Только PS5;Лента на главной;Новинки",
-    "rating": "4.0"
-  },
-  {
-    "id": 581,
-    "title": "Mafia: The Old Country PS5 New Price",
-    "platform": "PS5",
-    "price": 369,
-    "category": "rpg",
-    "image": "https://static.tildacdn.com/stor6633-3237-4162-b730-313461396235/57085481.jpg",
-    "link": "http://arenapsgm.ru/tproduct/156584378822-mafia-the-old-country-ps5-new-price",
-    "genre": "Лента на главной;Хоррор;Все игры;Приключения;РПГ;Только PS5;Новинки",
-    "rating": "4.0"
-  },
-  {
     "id": 582,
     "title": "Minecraft PS5 Покупка",
     "platform": "PS5",
@@ -6410,17 +6619,6 @@
     "image": "https://static.tildacdn.com/stor3830-3536-4533-b333-396430333462/38602212.jpg",
     "link": "http://arenapsgm.ru/p2p3/tproduct/853198591242-senuas-saga-hellblade-ii-ps5-navsegda",
     "genre": "П2 и П3",
-    "rating": "4.0"
-  },
-  {
-    "id": 584,
-    "title": "Senua's Saga: Hellblade II PS5",
-    "platform": "PS5",
-    "price": 639,
-    "category": "rpg",
-    "image": "https://static.tildacdn.com/stor3830-3536-4533-b333-396430333462/38602212.jpg",
-    "link": "http://arenapsgm.ru/tproduct/814156434772-senuas-saga-hellblade-ii-ps5",
-    "genre": "Шутеры;Все игры;Боевики;Только PS5;Лента на главной;Новинки;Приключения;РПГ;Стратегии и симуляторы;Хоррор;Новинка главная шапка",
     "rating": "4.0"
   },
   {
@@ -6490,28 +6688,6 @@
     "rating": "4.0"
   },
   {
-    "id": 591,
-    "title": "Gears of War: Reloaded PS5",
-    "platform": "PS5",
-    "price": 639,
-    "category": "action",
-    "image": "https://static.tildacdn.com/stor3364-6537-4564-a666-306238646537/29828091.jpg",
-    "link": "http://arenapsgm.ru/newgame/tproduct/176503129882-gears-of-war-reloaded-ps5",
-    "genre": "Новинки;Лента на главной;Все игры;Только PS5;Приключения;Шутеры;Новинка главная шапка;Игры на двоих",
-    "rating": "4.0"
-  },
-  {
-    "id": 592,
-    "title": "METAL GEAR SOLID: SNAKE EATER PS5",
-    "platform": "PS5",
-    "price": 939,
-    "category": "action",
-    "image": "https://static.tildacdn.com/stor6435-3865-4361-b864-356532623037/17578508.jpg",
-    "link": "http://arenapsgm.ru/newgame/tproduct/787949425092-metal-gear-solid-snake-eater-ps5",
-    "genre": "Новинки;Лента на главной;Все игры;Новинка главная шапка;Только PS5;Шутеры;Приключения;Боевики",
-    "rating": "4.0"
-  },
-  {
     "id": 593,
     "title": "Cronos: The New Dawn PS5 НАВСЕГДА",
     "platform": "PS5",
@@ -6523,17 +6699,6 @@
     "rating": "4.0"
   },
   {
-    "id": 594,
-    "title": "Cronos: The New Dawn Deluxe Edition PS5",
-    "platform": "PS5",
-    "price": 499,
-    "category": "action",
-    "image": "https://static.tildacdn.com/stor3539-6331-4462-b563-343431616339/92686812.jpg",
-    "link": "http://arenapsgm.ru/newgame/tproduct/414358136302-cronos-the-new-dawn-deluxe-edition-ps5",
-    "genre": "Новинки;Лента на главной;Все игры;Только PS5;Боевики;Хоррор;Новинка главная шапка",
-    "rating": "4.0"
-  },
-  {
     "id": 595,
     "title": "NBA 2K26 for PS5 НАВСЕГДА",
     "platform": "PS5",
@@ -6542,17 +6707,6 @@
     "image": "https://static.tildacdn.com/stor3664-6564-4834-a433-336232386338/14868049.jpg",
     "link": "http://arenapsgm.ru/p2p3/tproduct/423814294732-nba-2k26-for-ps5-navsegda",
     "genre": "П2 и П3",
-    "rating": "4.0"
-  },
-  {
-    "id": 596,
-    "title": "Hell is Us PS5",
-    "platform": "PS5",
-    "price": 639,
-    "category": "action",
-    "image": "https://static.tildacdn.com/stor3062-6636-4339-a662-666164306638/25499088.jpg",
-    "link": "http://arenapsgm.ru/tproduct/590037855892-hell-is-us-ps5",
-    "genre": "Шутеры;Все игры;Приключения;Только PS5;Лента на главной;Новинки;Новинка главная шапка",
     "rating": "4.0"
   },
   {
@@ -6578,39 +6732,6 @@
     "rating": "4.0"
   },
   {
-    "id": 599,
-    "title": "Hollow Knight: Silksong PS4/PS5",
-    "platform": "PS4",
-    "price": 599,
-    "category": "rpg",
-    "image": "https://static.tildacdn.com/stor3165-3334-4264-a332-656361343265/79567131.jpg",
-    "link": "http://arenapsgm.ru/tproduct/284499310972-hollow-knight-silksong-ps4ps5",
-    "genre": "Лента на главной;Приключения;РПГ;Платформеры;Новинки;Новинка главная шапка;Все игры",
-    "rating": "4.0"
-  },
-  {
-    "id": 600,
-    "title": "NBA 2K26 PS5",
-    "platform": "PS5",
-    "price": 899,
-    "category": "sport",
-    "image": "https://static.tildacdn.com/stor3664-6564-4834-a433-336232386338/14868049.jpg",
-    "link": "http://arenapsgm.ru/tproduct/229170210962-nba-2k26-ps5",
-    "genre": "Новинка главная шапка;Все игры;Только PS5;Лента на главной;Новинки;Игры на двоих;Спорт",
-    "rating": "4.0"
-  },
-  {
-    "id": 601,
-    "title": "SILENT HILL f PS5",
-    "platform": "PS5",
-    "price": 939,
-    "category": "action",
-    "image": "https://static.tildacdn.com/stor3864-6132-4563-b335-303139323935/77759889.jpg",
-    "link": "http://arenapsgm.ru/tproduct/432846042272-silent-hill-f-ps5",
-    "genre": "Новинка главная шапка;Все игры;Приключения;Боевики;Только PS5;Лента на главной;Новинки;Хоррор",
-    "rating": "4.0"
-  },
-  {
     "id": 602,
     "title": "Diablo 4 + Vessel of Hatred PS4/PS5",
     "platform": "PS4",
@@ -6622,17 +6743,6 @@
     "rating": "4.0"
   },
   {
-    "id": 603,
-    "title": "Ghost of Yotei PS5",
-    "platform": "PS5",
-    "price": 939,
-    "category": "action",
-    "image": "https://static.tildacdn.com/stor3166-6166-4138-b933-323933306636/53273140.jpg",
-    "link": "http://arenapsgm.ru/tproduct/782106986302-ghost-of-yotei-ps5",
-    "genre": "Новинка главная шапка;Все игры;Приключения;Боевики;Только PS5;Лента на главной;Новинки",
-    "rating": "4.0"
-  },
-  {
     "id": 604,
     "title": "Ghost of Yōtei PS5 НАВСЕГДА",
     "platform": "PS5",
@@ -6641,17 +6751,6 @@
     "image": "https://static.tildacdn.com/stor6539-6133-4534-b162-396533333662/74623890.jpg",
     "link": "http://arenapsgm.ru/p2p3/tproduct/703354802882-ghost-of-ytei-ps5-navsegda",
     "genre": "П2 и П3",
-    "rating": "4.0"
-  },
-  {
-    "id": 605,
-    "title": "Borderlands 4 PS5",
-    "platform": "PS5",
-    "price": 939,
-    "category": "action",
-    "image": "https://static.tildacdn.com/stor6230-3332-4337-b030-306662343437/42969879.jpg",
-    "link": "http://arenapsgm.ru/tproduct/829212593202-borderlands-4-ps5",
-    "genre": "Новинка главная шапка;Все игры;Приключения;Боевики;Только PS5;Лента на главной;Новинки",
     "rating": "4.0"
   },
   {
@@ -6765,28 +6864,6 @@
     "rating": "4.0"
   },
   {
-    "id": 616,
-    "title": "Dying Light: The Beast PS5",
-    "platform": "PS5",
-    "price": 899,
-    "category": "action",
-    "image": "https://static.tildacdn.com/stor3564-3837-4130-b031-666437373535/97273517.jpg",
-    "link": "http://arenapsgm.ru/tproduct/555739873852-dying-light-the-beast-ps5",
-    "genre": "Новинка главная шапка;Лента на главной;Все игры;Только PS5;Игры на двоих;Приключения;Хоррор;Новинки",
-    "rating": "4.0"
-  },
-  {
-    "id": 617,
-    "title": "Claws of Awaji – Assassin's Creed Shadows PS5",
-    "platform": "PS5",
-    "price": 350,
-    "category": "rpg",
-    "image": "https://static.tildacdn.com/stor6338-6433-4431-b663-303266633666/79261065.jpg",
-    "link": "http://arenapsgm.ru/tproduct/524735406642-claws-of-awaji-assassins-creed-shadows-p",
-    "genre": "Новинка главная шапка;Лента на главной;Все игры;Только PS5;Приключения;РПГ;Новинки;Assassin’s Creed Shadows",
-    "rating": "4.0"
-  },
-  {
     "id": 618,
     "title": "Спонсорские ходы для Collection Card 100 шт.",
     "platform": "PS5",
@@ -6806,17 +6883,6 @@
     "image": "https://static.tildacdn.com/stor6463-6230-4330-b631-396337353335/42213917.jpg",
     "link": "http://arenapsgm.ru/nadvoihgame/tproduct/551064287362-contra-operation-galuga-ps4ps5",
     "genre": "Игры на двоих;Шутеры;Все игры;Боевики;Лента на главной;Платформеры",
-    "rating": "4.0"
-  },
-  {
-    "id": 620,
-    "title": "Ultimate EA SPORTS FC 26 для PS4/PS5",
-    "platform": "PS4",
-    "price": 899,
-    "category": "sport",
-    "image": "https://static.tildacdn.com/stor6437-3438-4764-b961-643338386165/79854004.jpg",
-    "link": "http://arenapsgm.ru/tproduct/931488400772-ultimate-ea-sports-fc-26-dlya-ps4ps5",
-    "genre": "Новинка главная шапка;Новинки;Все игры;Игры на двоих;Спорт",
     "rating": "4.0"
   },
   {
@@ -6861,17 +6927,6 @@
     "image": "https://static.tildacdn.com/stor3864-6132-4563-b335-303139323935/77759889.jpg",
     "link": "http://arenapsgm.ru/p2p3/tproduct/376936058152-silent-hill-f-silent-hill-f-deluxe-editi",
     "genre": "П2 и П3",
-    "rating": "4.0"
-  },
-  {
-    "id": 625,
-    "title": "Frostpunk 2 PS5",
-    "platform": "PS5",
-    "price": 499,
-    "category": "rpg",
-    "image": "https://static.tildacdn.com/stor3336-6261-4133-b230-346566333664/98055694.jpg",
-    "link": "http://arenapsgm.ru/tproduct/914794153172-frostpunk-2-ps5",
-    "genre": "Лента на главной;Все игры;Боевики;Только PS5;Новинки;Приключения;РПГ;Стратегии и симуляторы;Новинка главная шапка",
     "rating": "4.0"
   },
   {
@@ -6952,17 +7007,6 @@
     "rating": "4.0"
   },
   {
-    "id": 633,
-    "title": "Little Nightmares III PS4/PS5",
-    "platform": "PS4",
-    "price": 599,
-    "category": "rpg",
-    "image": "https://static.tildacdn.com/stor6632-3365-4733-b063-643630363161/45609612.jpg",
-    "link": "http://arenapsgm.ru/tproduct/331866790052-little-nightmares-iii-ps4ps5",
-    "genre": "Новинка главная шапка;Приключения;РПГ;Лента на главной;Новинки;Платформеры;Все игры",
-    "rating": "4.0"
-  },
-  {
     "id": 634,
     "title": "UFC 4 PS4 Покупка",
     "platform": "PS4",
@@ -6971,17 +7015,6 @@
     "image": "https://static.tildacdn.com/stor6330-6162-4537-b736-383032356237/28936217.jpg",
     "link": "http://arenapsgm.ru/cardplaystationnetwork/tproduct/416506414162-ufc-4-ps4-pokupka",
     "genre": "Fortnite",
-    "rating": "4.0"
-  },
-  {
-    "id": 635,
-    "title": "Vampire: The Masquerade - Bloodlines 2 PS5",
-    "platform": "PS5",
-    "price": 639,
-    "category": "action",
-    "image": "https://static.tildacdn.com/stor6364-3335-4165-a339-636663313031/95830105.jpg",
-    "link": "http://arenapsgm.ru/gamescatalog/tproduct/662498520822-vampire-the-masquerade-bloodlines-2-ps5",
-    "genre": "Все игры;Приключения;Только PS5;Лента на главной;Новинки;Новинка главная шапка;Игры на двоих",
     "rating": "4.0"
   },
   {
@@ -7018,28 +7051,6 @@
     "rating": "4.0"
   },
   {
-    "id": 639,
-    "title": "The Outer Worlds 2 PS5",
-    "platform": "PS5",
-    "price": 899,
-    "category": "rpg",
-    "image": "https://static.tildacdn.com/stor3637-6335-4534-a237-376439313835/37164181.jpg",
-    "link": "http://arenapsgm.ru/horror/tproduct/645651957212-the-outer-worlds-2-ps5",
-    "genre": "Хоррор;Все игры;Приключения;РПГ;Только PS5;Лента на главной;Новинки;Новинка главная шапка",
-    "rating": "4.0"
-  },
-  {
-    "id": 640,
-    "title": "ARC Raiders PS5",
-    "platform": "PS5",
-    "price": 450,
-    "category": "rpg",
-    "image": "https://static.tildacdn.com/stor6237-6537-4636-a363-643531626130/47435668.jpg",
-    "link": "http://arenapsgm.ru/gamescatalog/tproduct/825521295232-arc-raiders-ps5",
-    "genre": "Все игры;Приключения;РПГ;Только PS5;Лента на главной;Новинки;Новинка главная шапка;Шутеры",
-    "rating": "4.0"
-  },
-  {
     "id": 641,
     "title": "ARC Raiders PS5",
     "platform": "PS5",
@@ -7048,17 +7059,6 @@
     "image": "https://static.tildacdn.com/stor6237-6537-4636-a363-643531626130/47435668.jpg",
     "link": "http://arenapsgm.ru/p2p3/tproduct/673546617342-arc-raiders-ps5",
     "genre": "П2 и П3",
-    "rating": "4.0"
-  },
-  {
-    "id": 642,
-    "title": "Dispatch PS5",
-    "platform": "PS5",
-    "price": 499,
-    "category": "rpg",
-    "image": "https://static.tildacdn.com/stor6339-3661-4335-b030-373632303533/23124482.jpg",
-    "link": "http://arenapsgm.ru/gamescatalog/tproduct/662591843032-dispatch-ps5",
-    "genre": "Все игры;Боевики;Только PS5;Лента на главной;Новинки;Приключения;РПГ;Стратегии и симуляторы;Новинка главная шапка;Игры на двоих;Интерактивное кино",
     "rating": "4.0"
   },
   {
