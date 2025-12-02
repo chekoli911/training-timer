@@ -291,7 +291,7 @@
     "platform": "PS5",
     "price": 1325.0,
     "category": "Подписка Plus;Lego Horizon Adventures PS5 Рекомендации;Spider man 2 рекомендации;Hogwarts Legacy Deluxe рекомендации;RAFT Рекомендации",
-    "image": "https://static.tildacdn.com/stor6165-6262-4538-a264-626362623034/90898039.png",
+    "image": "https://static.tildacdn.com/stor3232-3637-4233-b361-643634323164/1ae82d00bbf82cba575ac87a0786eb29.png",
     "link": "http://arenapsgm.ru/playstationplus/tproduct/265723870132-ps-plus-essential",
     "genre": "Подписка Plus;Lego Horizon Adventures PS5 Рекомендации;Spider man 2 рекомендации;Hogwarts Legacy Deluxe рекомендации;RAFT Рекомендации",
     "rating": "0.0"
@@ -313,7 +313,7 @@
     "platform": "PS5",
     "price": 1985.0,
     "category": "Подписка Plus;Lego Horizon Adventures PS5 Рекомендации;Spider man 2 рекомендации;Hogwarts Legacy Deluxe рекомендации;RAFT Рекомендации",
-    "image": "https://static.tildacdn.com/stor3563-3963-4234-a539-626366356163/45694411.png",
+    "image": "https://static.tildacdn.com/stor6433-3533-4233-b039-626361616539/9e6ea9d74daadf46ada3dcbd1027ba20.png",
     "link": "http://arenapsgm.ru/playstationplus/tproduct/120026529562-ps-plus-extra",
     "genre": "Подписка Plus;Lego Horizon Adventures PS5 Рекомендации;Spider man 2 рекомендации;Hogwarts Legacy Deluxe рекомендации;RAFT Рекомендации",
     "rating": "0.0"
@@ -324,7 +324,7 @@
     "platform": "PS5",
     "price": 2325.0,
     "category": "Подписка Plus;Lego Horizon Adventures PS5 Рекомендации;Spider man 2 рекомендации;Hogwarts Legacy Deluxe рекомендации;RAFT Рекомендации",
-    "image": "https://static.tildacdn.com/stor6131-6537-4366-b637-363262353236/81647396.png",
+    "image": "https://static.tildacdn.com/stor3064-3736-4631-b338-366136386130/fa139045bdcc8a6b989f8c6378551fb2.png",
     "link": "http://arenapsgm.ru/playstationplus/tproduct/184221731042-ps-plus-deluxe",
     "genre": "Подписка Plus;Lego Horizon Adventures PS5 Рекомендации;Spider man 2 рекомендации;Hogwarts Legacy Deluxe рекомендации;RAFT Рекомендации",
     "rating": "0.0"
@@ -5451,7 +5451,7 @@
     "price": 490.0,
     "category": "Подписка Plus;Лента на главной;Все игры;Интерактивное кино;Только PS5;Игры на двоих;Спорт;Шутеры;Гонки;Приключения;РПГ;Платформеры;Боевики;VR;Стратегии и симуляторы;Хоррор",
     "image": "https://static.tildacdn.com/stor3662-6639-4733-b130-386162623738/80643264.jpg",
-    "link": "http://arenapsgm.ru/novinkikatalogadecpsplus/tproduct/199915107972-arenda-ps-plus-ps4ps5",
+    "link": "http://arenapsgm.ru/playstationplus/tproduct/199915107972-arenda-ps-plus-ps4ps5",
     "genre": "Подписка Plus;Лента на главной;Все игры;Интерактивное кино;Только PS5;Игры на двоих;Спорт;Шутеры;Гонки;Приключения;РПГ;Платформеры;Боевики;VR;Стратегии и симуляторы;Хоррор",
     "rating": "0.0"
   },
@@ -41709,6 +41709,39 @@
     "image": "https://static.tildacdn.com/stor3864-3166-4236-b531-373765643738/2b1035de03e2f874eebdd3d9f3f00cc5.jpg",
     "link": "http://arenapsgm.ru/arenasale/tproduct/774968300082-lets-sing-2025-with-international-hits-p",
     "genre": "GAME SALE до 16.12.2025 add 1",
+    "rating": "0.0"
+  },
+  {
+    "id": 3793,
+    "title": "PS Plus Extra",
+    "platform": "PS5",
+    "price": 1985.0,
+    "category": "PS plus Черная пятница",
+    "image": "https://static.tildacdn.com/stor6433-3533-4233-b039-626361616539/9e6ea9d74daadf46ada3dcbd1027ba20.png",
+    "link": "http://arenapsgm.ru/playstationplus/tproduct/120026529562-ps-plus-extra",
+    "genre": "PS plus Черная пятница",
+    "rating": "0.0"
+  },
+  {
+    "id": 3794,
+    "title": "PS Plus Deluxe",
+    "platform": "PS5",
+    "price": 2325.0,
+    "category": "PS plus Черная пятница",
+    "image": "https://static.tildacdn.com/stor3064-3736-4631-b338-366136386130/fa139045bdcc8a6b989f8c6378551fb2.png",
+    "link": "http://arenapsgm.ru/playstationplus/tproduct/184221731042-ps-plus-deluxe",
+    "genre": "PS plus Черная пятница",
+    "rating": "0.0"
+  },
+  {
+    "id": 3795,
+    "title": "PS Plus Essential",
+    "platform": "PS5",
+    "price": 1325.0,
+    "category": "PS plus Черная пятница",
+    "image": "https://static.tildacdn.com/stor3232-3637-4233-b361-643634323164/1ae82d00bbf82cba575ac87a0786eb29.png",
+    "link": "http://arenapsgm.ru/playstationplus/tproduct/265723870132-ps-plus-essential",
+    "genre": "PS plus Черная пятница",
     "rating": "0.0"
   }
 ]
