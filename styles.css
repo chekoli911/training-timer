@@ -1,0 +1,142 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Force portrait orientation on mobile only */
+@viewport {
+    orientation: portrait;
+}
+
+/* Allow landscape on desktop */
+@media screen and (min-width: 769px) {
+    @viewport {
+        orientation: auto;
+    }
+}
+
+body {
+    font-family: 'Courier New', monospace;
+    background: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    overflow: hidden;
+    touch-action: none;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    user-select: none;
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden;
+}
+
+#game-container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #000;
+    max-width: 100vw;
+    max-height: 100vh;
+}
+
+#game-canvas {
+    display: block;
+    background: #000;
+    image-rendering: pixelated;
+    image-rendering: -moz-crisp-edges;
+    image-rendering: crisp-edges;
+    object-fit: contain;
+}
+
+/* Mobile: full screen portrait - iPhone and other mobile devices */
+@media screen and (max-width: 768px) {
+    body {
+        /* Full screen on mobile with safe area support for iPhone */
+        width: 100vw;
+        height: 100vh;
+        height: 100dvh; /* Dynamic viewport height for mobile browsers */
+        position: fixed;
+        top: 0;
+        left: 0;
+        overflow: hidden;
+        /* Support for iPhone notch and safe areas */
+        padding: env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);
+    }
+    
+    #game-container {
+        width: 100vw;
+        height: 100vh;
+        height: 100dvh; /* Dynamic viewport height */
+        position: fixed;
+        top: 0;
+        left: 0;
+        /* Support for iPhone notch and safe areas */
+        padding: env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);
+        margin: calc(-1 * env(safe-area-inset-top)) calc(-1 * env(safe-area-inset-right)) calc(-1 * env(safe-area-inset-bottom)) calc(-1 * env(safe-area-inset-left));
+    }
+    
+    #game-canvas {
+        width: 100vw !important;
+        height: 100vh !important;
+        height: 100dvh !important; /* Dynamic viewport height */
+        max-width: 100vw !important;
+        max-height: 100vh !important;
+        max-height: 100dvh !important;
+        position: fixed;
+        top: 0;
+        left: 0;
+        /* Cover entire screen including safe areas */
+        object-fit: cover;
+    }
+}
+
+/* Desktop: maintain aspect ratio, centered */
+@media screen and (min-width: 769px) {
+    #game-canvas {
+        max-width: 90vw;
+        max-height: 90vh;
+    }
+}
+
+/* Portrait orientation message (hidden by default) */
+.orientation-message {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: rgba(0, 0, 0, 0.9);
+    color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    z-index: 10000;
+    font-size: 18px;
+}
+
+/* Show message in landscape on mobile only */
+@media screen and (max-width: 768px) and (orientation: landscape) {
+    .orientation-message {
+        display: block;
+    }
+    
+    #game-canvas {
+        display: none;
+    }
+}
+
+/* On desktop, always allow landscape */
+@media screen and (min-width: 769px) {
+    .orientation-message {
+        display: none !important;
+    }
+}
+
