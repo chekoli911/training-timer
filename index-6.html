@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Тренировка — Таймер Подходов</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+    <script src="https://www.gstatic.com/firebasejs/9.22.2/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.22.2/firebase-database-compat.js"></script>
+    <style>
+        body {
+            font-family: 'Poppins', 'Segoe UI', Arial, sans-serif;
+            background: linear-gradient(135deg, #fceabb 0%, #f8b500 100%);
+            text-align: center;
+            padding: 30px 20px;
+            color: #333;
+            min-height: 100vh;
+        }
+        h1 {
+            font-size: 2.5em;
+            margin-bottom: 25px;
+            font-weight: 600;
+            color: #222;
+        }
+        #startButton, #restartButton {
+            padding: 18px 36px;
+            font-size: 1.4em;
+            background: #2196f3;
+            color: #fff;
+            border: none;
+            border-radius: 12px;
+            cursor: pointer;
+            transition: background 0.3s, transform 0.2s;
+            margin: 20px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+        }
+        #startButton:hover, #restartButton:hover {
+            background: #1976d2;
+            transform: translateY(-2px);
+        }
+        .counter {
+            font-size: 2.2em;
+            margin: 20px 0;
+            font-weight: 600;
+        }
+        .timer-circle {
+            position: relative;
+            width: 240px;
+            height: 240px;
+            margin: 0 auto 20px;
+        }
+        .timer-circle svg {
+            transform: rotate(-90deg);
+        }
+        .timer-circle circle {
+            fill: none;
+            stroke-width: 14;
+            stroke-linecap: round;
+            transition: stroke 0.3s;
+        }
+        .timer-text {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            font-size: 4em;
+            color: #222;
+            font-weight: 600;
+        }
+        .progress-bar {
+            height: 16px;
+            background: #ddd;
+            border-radius: 8px;
+            overflow: hidden;
+            margin: 25px auto;
+            max-width: 400px;
+            box-shadow: inset 0 2px 5px rgba(0,0,0,0.1);
+        }
+        .progress-bar-inner {
+            height: 100%;
+            width: 0%;
+            background: #2196f3;
+            transition: width 0.4s;
+        }
+        .thank-you-block {
+            margin-top: 40px;
+        }
+        .thank-you-block img {
+            max-width: 180px;
+            cursor: pointer;
+            transition: transform 0.15s ease;
+            user-select: none;
+            -webkit-user-drag: none;
+            -webkit-touch-callout: none;
+        }
+        .thank-you-block img:active {
+            transform: scale(0.9);
+        }
+        .thank-count {
+            margin-top: 12px;
+            font-size: 1.4em;
+            font-weight: 600;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Тренировка — Таймер Подходов</h1>
+<button id="startButton">Начать тренировку</button>
+
+<div class="counter" id="approachCounter"></div>
+
+<div class="timer-circle">
+    <svg width="240" height="240">
+        <circle r="110" cx="120" cy="120" stroke="#eee"></circle>
+        <circle id="progressCircle" r="110" cx="120" cy="120" stroke="#e53935" stroke-dasharray="690" stroke-dashoffset="0"></circle>
+    </svg>
+    <div class="timer-text" id="timerText"></div>
+</div>
+
+<div class="progress-bar">
+    <div class="progress-bar-inner" id="progressBar"></div>
+</div>
+
+<div class="thank-you-block">
+    <img src="thank_you_cat.png" alt="Спасибо!" id="thankYouBtn">
+    <div class="thank-count">Сказали спасибо: <span id="thankCount">...</span></div>
+</div>
+
+<button id="restartButton" style="display:none;">Запустить снова</button>
+
+<!-- Audio для мяу -->
+<audio id="meowSound" src="cat-meow.mp3"></audio>
+
+<script>
+    const firebaseConfig = {
+      apiKey: "AIzaSyA3pv4GKmss34Q2rvj9O5klyIup6bWw5Og",
+      authDomain: "training-timer-57762.firebaseapp.com",
+      databaseURL: "https://training-timer-57762-default-rtdb.firebaseio.com",
+      projectId: "training-timer-57762",
+      storageBucket: "training-timer-57762.firebasestorage.app",
+      messagingSenderId: "951819205257",
+      appId: "1:951819205257:web:d2ab64389fa36a8e23a458"
+    };
+    const app = firebase.initializeApp(firebaseConfig);
+    const db = firebase.database();
+
+    const startButton = document.getElementById('startButton');
+    const restartButton = document.getElementById('restartButton');
+    const approachCounter = document.getElementById('approachCounter');
+    const timerText = document.getElementById('timerText');
+    const progressCircle = document.getElementById('progressCircle');
+    const progressBar = document.getElementById('progressBar');
+    const thankYouBtn = document.getElementById('thankYouBtn');
+    const thankCount = document.getElementById('thankCount');
+    const meowSound = document.getElementById('meowSound');
+
+    let approach = 0;
+
+    startButton.addEventListener('click', () => {
+        startButton.style.display = 'none';
+
+        // Разогреваем speech synthesis
+        window.speechSynthesis.cancel();
+        const dummy = new SpeechSynthesisUtterance('');
+        window.speechSynthesis.speak(dummy);
+
+        // Разогреваем AudioContext
+        const context = new (window.AudioContext || window.webkitAudioContext)();
+        const dummyOsc = context.createOscillator();
+        dummyOsc.frequency.value = 1;
+        dummyOsc.connect(context.destination);
+        dummyOsc.start();
+        dummyOsc.stop(context.currentTime + 0.05);
+
+        // Стартуем через 200 мс
+        setTimeout(() => {
+            speak('Начинаем тренировку, приготовься к первому подходу');
+            playBeeps(3, startCycle);
+        }, 200);
+    });
+
+    restartButton.addEventListener('click', () => {
+        approach = 0;
+        restartButton.style.display = 'none';
+        approachCounter.textContent = '';
+        timerText.textContent = '';
+        updateCircle(0, '#e53935');
+        progressBar.style.width = '0%';
+        speak('Начинаем тренировку, приготовься к первому подходу');
+        playBeeps(3, startCycle);
+    });
+
+    function startCycle() {
+        approach++;
+        updateProgressBar();
+        if (approach === 10) {
+            speak('И теперь последний подход', () => {
+                startTwentySeconds();
+            });
+        } else {
+            startTwentySeconds();
+        }
+    }
+
+    function startTwentySeconds() {
+        updateApproachCounter();
+        speak('двадцать секунд', () => {
+            updateCircle(690, '#e53935');
+            startTimer(20, () => {
+                if (approach === 4) {
+                    speak('Это был четвертый подход', () => { startTenSeconds(); });
+                } else if (approach === 7) {
+                    speak('Это был седьмой подход', () => { startTenSeconds(); });
+                } else if (approach === 10) {
+                    speak('Ты молодец! Так держать!', () => {
+                        restartButton.style.display = 'inline-block';
+                    });
+                } else {
+                    startTenSeconds();
+                }
+            });
+        });
+    }
+
+    function startTenSeconds() {
+        speak('десять секунд', () => {
+            updateCircle(690, '#43a047');
+            startTimer(10, startCycle);
+        });
+    }
+
+    function startTimer(seconds, callback) {
+        updateCircle(690, (seconds === 20 ? '#e53935' : '#43a047'));
+        timerText.textContent = seconds;
+        const full = seconds;
+        const interval = setInterval(() => {
+            seconds--;
+            timerText.textContent = seconds;
+            const offset = 690 * (1 - seconds / full);
+            progressCircle.style.strokeDashoffset = offset;
+            if (seconds <= 0) {
+                clearInterval(interval);
+                callback();
+            }
+        }, 1000);
+    }
+
+    function updateApproachCounter() {
+        approachCounter.textContent = `Подход ${approach} из 10`;
+    }
+
+    function speak(text, callback) {
+        const utterance = new SpeechSynthesisUtterance(text);
+        utterance.lang = 'ru-RU';
+        utterance.onend = () => {
+            if (callback) callback();
+        };
+        window.speechSynthesis.speak(utterance);
+    }
+
+    function playBeeps(count, callback) {
+        let i = 0;
+        const context = new (window.AudioContext || window.webkitAudioContext)();
+        const beep = () => {
+            const osc = context.createOscillator();
+            const gain = context.createGain();
+            osc.type = 'sine';
+            osc.frequency.setValueAtTime(i === count - 1 ? 1200 : 800, context.currentTime);
+            gain.gain.setValueAtTime(0.2, context.currentTime);
+            osc.connect(gain);
+            gain.connect(context.destination);
+            osc.start();
+            osc.stop(context.currentTime + 0.1);
+            i++;
+            if (i < count) {
+                setTimeout(beep, 200);
+            } else {
+                setTimeout(callback, 500);
+            }
+        };
+        beep();
+    }
+
+    function updateCircle(offset, color) {
+        progressCircle.style.strokeDasharray = 690;
+        progressCircle.style.strokeDashoffset = 0;
+        progressCircle.style.stroke = color;
+    }
+
+    function updateProgressBar() {
+        const percent = (approach / 10) * 100;
+        progressBar.style.width = percent + '%';
+    }
+
+    thankYouBtn.addEventListener('contextmenu', e => e.preventDefault());
+
+    thankYouBtn.addEventListener('click', () => {
+        db.ref('thanksCount').transaction(n => (n || 0) + 1);
+        meowSound.currentTime = 0;
+        meowSound.play();
+        if (navigator.vibrate) {
+            navigator.vibrate([100, 50, 100]);
+        }
+        setTimeout(updateThankCount, 1000);
+    });
+
+    function updateThankCount() {
+        db.ref('thanksCount').get().then(snapshot => {
+            const count = snapshot.val() || 0;
+            thankCount.textContent = count;
+        });
+    }
+
+    updateThankCount();
+</script>
+
+</body>
+</html>
