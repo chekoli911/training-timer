@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "generated_at": "2026-10-31T18:23:23Z",
+  "generated_at": "2026-10-31T19:46:36Z",
   "count": 11365,
   "chunk_size": 100,
   "chunks": [
@@ -464,7 +464,7 @@
       "file": "chunk_077.json",
       "index": 77,
       "count": 100,
-      "bytes": 677897
+      "bytes": 678858
     },
     {
       "file": "chunk_078.json",
@@ -695,19 +695,19 @@
       "file": "p2p3_chunk_001.json",
       "index": 1,
       "count": 100,
-      "bytes": 1724796
+      "bytes": 1724795
     },
     {
       "file": "p2p3_chunk_002.json",
       "index": 2,
       "count": 100,
-      "bytes": 1624021
+      "bytes": 1618007
     },
     {
       "file": "p2p3_chunk_003.json",
       "index": 3,
       "count": 9,
-      "bytes": 108763
+      "bytes": 133081
     }
   ],
   "base": "https://raw.githubusercontent.com/chekoli911/training-timer/main/mobi/",
